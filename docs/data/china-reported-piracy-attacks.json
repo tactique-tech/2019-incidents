@@ -1,0 +1,5417 @@
+{
+  "type": "FeatureCollection",
+  "name": "china-reported-piracy-attacks-",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [{
+      "type": "Feature",
+      "properties": {
+        "No.": 1,
+        "Month": 1,
+        "Day": 2,
+        "Time": "0001 UTC",
+        "Vessel Name": "MSC Mandy",
+        "Ship Type": "集装箱船",
+        "IMO": "8918966",
+        "Waters": null,
+        "Longitude": 5.46666667,
+        "Latitude": 2.35,
+        "Region": "西非",
+        "Position": "西非",
+        "Attack Type": "绑架",
+        "Weapon Type": "枪支",
+        "Info": "1月02日，位于西非05°28N  002°21E 位置，时间0001 UTC，\n武装海盗袭击并登上正在进行的集装箱船。六名俄罗斯船员被绑架。\n其余船员乘船前往安全港口。",
+        "field_20": "侵扰",
+        "field_21": "非枪支"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.35, 5.46666667]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 2,
+        "Month": 1,
+        "Day": 3,
+        "Time": "0445 UTC",
+        "Vessel Name": "CMA CGM KINGSTON",
+        "Ship Type": "锚泊油轮",
+        "IMO": "9376907",
+        "Waters": null,
+        "Longitude": 10.26666667,
+        "Latitude": -64.7,
+        "Region": "拉丁美洲",
+        "Position": "委内瑞拉",
+        "Attack Type": "侵扰",
+        "Weapon Type": "非枪支",
+        "Info": "1月03日，位于委内瑞拉10°16N  064°42W位置，时间0445 UTC，\n在一艘锚泊油轮上的值勤人员发现劫匪试图使用钩在船尾甲板护栏上\n的抓钩进行登船。警报发出，看到警觉的船员，劫匪放弃了登船尝试\n并逃离了。事件报告给港口当局。",
+        "field_20": "袭击",
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.7, 10.26666667]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 3,
+        "Month": 1,
+        "Day": 3,
+        "Time": "0328 UTC",
+        "Vessel Name": "STAR KESTREL",
+        "Ship Type": "集装箱船",
+        "IMO": "9321940",
+        "Waters": null,
+        "Longitude": 10.31666667,
+        "Latitude": -75.51666667000001,
+        "Region": "拉丁美洲",
+        "Position": "哥伦比亚",
+        "Attack Type": "偷盗",
+        "Weapon Type": "非枪支",
+        "Info": "1月03日，位于哥伦比亚10°19N  075°31W位置，时间0328 UTC，\n在一艘锚泊的集装箱船上的甲板人员注意到在艏楼附近有三名劫匪，\n并告知值班人员。警报发出，船员集中在生活区，所有门都从内部锁\n定。船舶向海岸警卫队报告了这一事件，并要求提供援助。一艘海岸\n警卫队船抵达并搜查了船只周围的水域。据报道船舶一些物品被盗。",
+        "field_20": "偷盗",
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.51666667, 10.31666667]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 4,
+        "Month": 1,
+        "Day": 3,
+        "Time": "0320 UTC",
+        "Vessel Name": null,
+        "Ship Type": "油轮",
+        "IMO": "9321940",
+        "Waters": null,
+        "Longitude": 6.28333333,
+        "Latitude": 3.31666667,
+        "Region": "西非",
+        "Position": "尼日利亚",
+        "Attack Type": "袭击",
+        "Weapon Type": "非枪支",
+        "Info": "1月03日，位于尼日利亚6°17N  003°19E 位置，时间2325 UTC，\n保安人员注意到两名未经授权的人登上油轮。值班人员发出警报，登\n轮人员逃跑。船舶上没有物品被盗。 ",
+        "field_20": "抢劫",
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.31666667, 6.28333333]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 5,
+        "Month": 1,
+        "Day": 7,
+        "Time": "0320 UTC",
+        "Vessel Name": "FSL SINGAPORE",
+        "Ship Type": "锚泊油轮",
+        "IMO": "9311725",
+        "Waters": null,
+        "Longitude": 6.26666667,
+        "Latitude": 3.33333333,
+        "Region": "西非",
+        "Position": "尼日利亚",
+        "Attack Type": "偷盗",
+        "Weapon Type": "非枪支",
+        "Info": "1月07日，位于尼日利亚6°16’0N  003°20’0E位置，时间0320 UTC\n，两名携带塑料软管的劫匪登上了一艘锚泊油轮。他们将软管连接到前\n货舱的端口并试图窃取货物。值班人员注意到劫匪并发出警报，导致劫\n匪逃跑。事件立即报告给尼日利亚海军巡逻艇，他们来到该地点并对周\n围水域进行了检查。没有报道被盗。",
+        "field_20": "绑架",
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.33333333, 6.26666667]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 6,
+        "Month": 1,
+        "Day": 7,
+        "Time": "0110 UTC",
+        "Vessel Name": "ARAMON",
+        "Ship Type": "产品油轮",
+        "IMO": "9440485",
+        "Waters": null,
+        "Longitude": 6.25,
+        "Latitude": 3.2,
+        "Region": "西非",
+        "Position": "尼日利亚",
+        "Attack Type": "偷盗",
+        "Weapon Type": "非枪支",
+        "Info": "1月07日，位于尼日利亚6°15’0N  003°12’0E位置，时间0110 UTC，\n一艘小型小船上约有4-5名劫匪与一艘锚定的产品油轮并排，并将两条带有\n挂钩的绳索扔到油轮的栏杆上。例行巡逻的值班人员听到船头附近的声音，\n发现了钩子和小船。警报发出，非必要的船员聚集在安全舱。尼日利亚海军\n巡逻艇接到求助信息，并立即作出回应。听到警报后，劫匪逃走了。巡逻艇\n搜查了油轮周围的水域",
+        "field_20": "劫持",
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.2, 6.25]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 7,
+        "Month": 1,
+        "Day": 10,
+        "Time": "2200 UTC",
+        "Vessel Name": "TWO MILLION WAYS",
+        "Ship Type": "油轮",
+        "IMO": "9334571",
+        "Waters": null,
+        "Longitude": 6.0,
+        "Latitude": 3.2,
+        "Region": "东南亚",
+        "Position": "印度尼西亚",
+        "Attack Type": "偷盗",
+        "Weapon Type": "非枪支",
+        "Info": "1月10日，位于印度尼西亚6°0S  105°57E位置，时间2200 UTC，在例行\n巡逻期间，船上的值勤人员注意到发动机仓库的锁损坏，船舶的备件丢失。\n事件报告给当地代理商。",
+        "field_20": "受伤",
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.2, 6.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 8,
+        "Month": 1,
+        "Day": 11,
+        "Time": null,
+        "Vessel Name": "MITO",
+        "Ship Type": "杂货船",
+        "IMO": "9587788",
+        "Waters": null,
+        "Longitude": -5.48888889,
+        "Latitude": 105.9361111,
+        "Region": "东南亚",
+        "Position": "印度尼西亚",
+        "Attack Type": "偷盗",
+        "Weapon Type": "非枪支",
+        "Info": "在抛锚的时候，值班工程师发现备件室的门坏了。他向轮机长和大副报告了事故。经检查，发现发电机的零件丢失了。船员没有受伤。发电机的零件被发现丢失了。向代理和船务经理报告事故;增加了甲板上的船员人数。\n进行了搜查。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [105.9361111, -5.48888889]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 9,
+        "Month": 1,
+        "Day": 12,
+        "Time": "2030 UTC",
+        "Vessel Name": null,
+        "Ship Type": "散货船",
+        "IMO": null,
+        "Waters": null,
+        "Longitude": 38.9,
+        "Latitude": 118.6,
+        "Region": "东南亚",
+        "Position": "曹妃甸",
+        "Attack Type": "袭击",
+        "Weapon Type": "非枪支",
+        "Info": "1月12日，位于曹妃甸38°54N  118°36E位置，时间2030 UTC，两名持有钢棍的劫匪登上一艘锚泊的散货船。值班人员注意到劫匪并发出警报。听到警报后，劫匪逃跑了，没有偷东西。事件向港务局报告。",
+        "field_20": "死亡",
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [118.6, 38.9]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 10,
+        "Month": 1,
+        "Day": 12,
+        "Time": null,
+        "Vessel Name": null,
+        "Ship Type": null,
+        "IMO": null,
+        "Waters": null,
+        "Longitude": null,
+        "Latitude": null,
+        "Region": "拉丁美洲",
+        "Position": "委内瑞拉",
+        "Attack Type": "绑架",
+        "Weapon Type": "枪支",
+        "Info": "1月12日，位于委内瑞拉，17岁的Kenrick Morgan和24岁的Kendell Singh\n在出海钓鱼时被绑架，绑匪要求获得4万美金的赎金，后来又改为2万美金和\n5部iphone。在满足绑匪的要求后，人质被释放。",
+        "field_20": "恐袭",
+        "field_21": null
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 11,
+        "Month": 1,
+        "Day": 15,
+        "Time": null,
+        "Vessel Name": null,
+        "Ship Type": "货轮",
+        "IMO": null,
+        "Waters": null,
+        "Longitude": 5.96666667,
+        "Latitude": 119.01666667000001,
+        "Region": "东南亚",
+        "Position": "菲律宾",
+        "Attack Type": "侵扰",
+        "Weapon Type": "非枪支",
+        "Info": "1月15日，位于菲律宾5°58N 119°01E位置，两艘蓝色小艇试图袭击行进中的货轮，其中一艘小艇上有4至7名海盗。值班人员发现了海盗，随船护卫鸣枪进行警告，海盗逃离。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [119.01666667, 5.96666667]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 12,
+        "Month": 1,
+        "Day": 17,
+        "Time": "0340 UTC",
+        "Vessel Name": "GERD KNUTSEN",
+        "Ship Type": "油轮",
+        "IMO": "9041057",
+        "Waters": null,
+        "Longitude": 10.18333333,
+        "Latitude": -64.78333333,
+        "Region": "拉丁美洲",
+        "Position": "委内瑞拉",
+        "Attack Type": "偷盗",
+        "Weapon Type": "非枪支",
+        "Info": "1月17日，位于委内瑞拉10°11N  064°47W位置，时间0340 UTC，未被注\n意的劫匪登上了一艘停泊的油轮。他们偷了船的物品后逃走了。在例行巡逻\n中中，值班人员发现了偷窃行为。事件向港口方面报告",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.78333333, 10.18333333]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 13,
+        "Month": 1,
+        "Day": 19,
+        "Time": "2240 UTC",
+        "Vessel Name": "NORD VALOROUS",
+        "Ship Type": "产品油轮",
+        "IMO": "9827059",
+        "Waters": null,
+        "Longitude": 5.2,
+        "Latitude": -4.03333333,
+        "Region": "西非",
+        "Position": "科特迪瓦",
+        "Attack Type": "侵扰",
+        "Weapon Type": "非枪支",
+        "Info": "1月19日，位于科特迪瓦05°12N  004°02W位置，时间2240 UTC，两名持\n有长刀的劫匪登上了一艘锚定的产品油轮。值班人员注意到一个梯子钩在船舷\n上，两个劫匪靠近船尾甲板绞车。OOW通知并发出警报。船员将探照灯指向船\n尾甲板，海盗逃走 。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.03333333, 5.2]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 14,
+        "Month": 1,
+        "Day": 22,
+        "Time": null,
+        "Vessel Name": null,
+        "Ship Type": "商船",
+        "IMO": null,
+        "Waters": null,
+        "Longitude": null,
+        "Latitude": null,
+        "Region": "东非",
+        "Position": "亚丁湾",
+        "Attack Type": "侵扰",
+        "Weapon Type": "非枪支",
+        "Info": "1月22日，当地时间1月22日下午，正在亚丁湾护送商船航行的中国海军第31批\n护航编队昆仑山舰，成功阻止6艘疑似海盗小艇接近编队，确保了被护船舶的安全。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 15,
+        "Month": 1,
+        "Day": 24,
+        "Time": "1935 UTC",
+        "Vessel Name": null,
+        "Ship Type": "油轮",
+        "IMO": null,
+        "Waters": null,
+        "Longitude": 3.71666667,
+        "Latitude": 6.16666667,
+        "Region": "西非",
+        "Position": "尼日利亚",
+        "Attack Type": "袭击",
+        "Weapon Type": "枪支",
+        "Info": "1月24日，位于尼日利亚03°43N  006°10E位置，时间1935 UTC，海盗试图\n袭击一艘进行中的油轮。非必要的船员集合在安全舱。船只采取了规避措施。\n海盗无法登上船舶，随后逃走了。事件向尼日利亚海军报告。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.16666667, 3.71666667]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 16,
+        "Month": 1,
+        "Day": 25,
+        "Time": "0015 UTC",
+        "Vessel Name": "ALLEGRA",
+        "Ship Type": "散货船",
+        "IMO": "9114476",
+        "Waters": null,
+        "Longitude": 3.53333333,
+        "Latitude": 6.18333333,
+        "Region": "西非",
+        "Position": "尼日利亚",
+        "Attack Type": "袭击",
+        "Weapon Type": "枪支",
+        "Info": "1月25日（A起），位于尼日利亚03°32N  006°11E位置，时间0015 UTC，\n大约五到七名武装海盗在一艘小船上追逐并向正在进行的散货船开火。警报响\n起，甲板灯打开，速度增加，船员在安全舱集合。船上的武装警卫设法击退了\n海盗。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.18333333, 3.53333333]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 17,
+        "Month": 1,
+        "Day": 25,
+        "Time": "1530 UTC",
+        "Vessel Name": "SAMURAI",
+        "Ship Type": "油轮",
+        "IMO": "9378876",
+        "Waters": null,
+        "Longitude": 3.03333333,
+        "Latitude": 6.08333333,
+        "Region": "西非",
+        "Position": "尼日利亚",
+        "Attack Type": "袭击",
+        "Weapon Type": "枪支",
+        "Info": "1月25日（B起），位于尼日利亚03°02N  006°05E位置，时间1530 UTC，\n大约七到八名武装海盗在一艘小船上追赶、开火并试图登上油轮。警报发出，\n非必要人员在安全舱集合。由于采取了反海盗措施，海盗们逃走了。船只和船\n员报告安全。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.08333333, 3.03333333]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 18,
+        "Month": 1,
+        "Day": 25,
+        "Time": null,
+        "Vessel Name": null,
+        "Ship Type": null,
+        "IMO": null,
+        "Waters": null,
+        "Longitude": 3.03333333,
+        "Latitude": 6.08333333,
+        "Region": "西非",
+        "Position": "尼日利亚",
+        "Attack Type": "袭击",
+        "Weapon Type": "枪支",
+        "Info": "一艘商船从尼日利亚布拉斯向南80海里，位置03:02N - 006:05E的两艘小艇靠近。\n这些小艇上有7到8个人，他们试图靠近并上船。\n船加快了速度，小艇掉头离开。\n船舶和船员安全。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.08333333, 3.03333333]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 19,
+        "Month": 1,
+        "Day": 27,
+        "Time": null,
+        "Vessel Name": null,
+        "Ship Type": "渔船",
+        "IMO": null,
+        "Waters": null,
+        "Longitude": null,
+        "Latitude": null,
+        "Region": "拉丁美洲",
+        "Position": "委内瑞拉",
+        "Attack Type": "绑架",
+        "Weapon Type": "枪支",
+        "Info": "1月27日，位于委内瑞拉，委内瑞拉6名当地居民在出海捕鱼的过程中被海盗\n绑架，在支付海盗20万美金的赎金后，人质被释放。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 20,
+        "Month": 1,
+        "Day": 29,
+        "Time": null,
+        "Vessel Name": "FMG NORTHERN SPIRIT",
+        "Ship Type": "矿石运输船",
+        "IMO": "9753595",
+        "Waters": null,
+        "Longitude": 38.86888889,
+        "Latitude": 119.18555556,
+        "Region": "东南亚",
+        "Position": "曹妃甸",
+        "Attack Type": "侵扰",
+        "Weapon Type": "非枪支",
+        "Info": "1月29日，位于中国曹妃甸38°52′8N 119°11′8E位置，时间1655 UTC，一\n艘抛锚的矿石运输船上的值班人员注意到旁边有一艘没有灯光的驳船，于是发\n出了警报。有人看见两个带着面具的强盗放下水管，从甲板上逃走了。在对该\n船进行搜查时，没有发现财物被盗。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [119.18555556, 38.86888889]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 21,
+        "Month": 1,
+        "Day": 31,
+        "Time": null,
+        "Vessel Name": null,
+        "Ship Type": "货轮",
+        "IMO": null,
+        "Waters": null,
+        "Longitude": 12.3,
+        "Latitude": 4.7486111,
+        "Region": "东南亚",
+        "Position": "菲律宾",
+        "Attack Type": "袭击",
+        "Weapon Type": "枪支",
+        "Info": "1月31日，位于菲律宾12°18N 120°20E位置，一伙海盗乘坐小艇试图袭击行\n进中的货轮。船舶值班人员及时的发现了海盗，随船武装护卫鸣枪进行警告，\n小艇停止继续向船舶靠近。但是，在随后的3个小时内小艇一直尾随船舶并试图\n接近船舶，由于船舶采取了有效防范，海盗最终放弃袭击。据报告并无人员伤亡。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.7486111, 12.3]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 22,
+        "Month": 2,
+        "Day": 3,
+        "Time": null,
+        "Vessel Name": null,
+        "Ship Type": null,
+        "IMO": null,
+        "Waters": null,
+        "Longitude": 5.56361111,
+        "Latitude": 4.74861111,
+        "Region": null,
+        "Position": null,
+        "Attack Type": null,
+        "Weapon Type": null,
+        "Info": "一个MV(匿名)被海盗袭击。\n一艘尼日利亚海军快艇和一艘贝宁巡逻艇被派往现场。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.74861111, 5.56361111]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 23,
+        "Month": 2,
+        "Day": 3,
+        "Time": "0500 UTC",
+        "Vessel Name": null,
+        "Ship Type": "运输船",
+        "IMO": null,
+        "Waters": null,
+        "Longitude": 2.5497222,
+        "Latitude": 4.79166667,
+        "Region": "西非",
+        "Position": "尼日利亚",
+        "Attack Type": "袭击",
+        "Weapon Type": "枪支",
+        "Info": "2月03日，位于尼日利亚01°18.6N  001°51.8E位置，时间0500 UTC。五名武装\n海盗袭击并登上一艘运输船，绑架了三名船员并逃脱。事件向尼日利亚海军报\n告，他们派遣一艘海军舰艇协助该船。剩下的船员在海军护航下航行到安全锚地。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.79166667, 2.5497222]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 24,
+        "Month": 2,
+        "Day": 3,
+        "Time": "1630 UTC",
+        "Vessel Name": "MAERSK ERIK",
+        "Ship Type": "油轮",
+        "IMO": "9316608",
+        "Waters": null,
+        "Longitude": 23.0338889,
+        "Latitude": 70.21666667,
+        "Region": "东南亚",
+        "Position": "印度",
+        "Attack Type": "袭击",
+        "Weapon Type": "非枪支",
+        "Info": "2月03日，时间1630 UTC。例行巡逻\n的船员在艏楼下注意到一艘船，并通知其他甲板船员。看到警觉的船员，船离开了。\n在检查时发现有一个储藏室被闯入，但没有任何报告被盗。事件报告给港务局。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [70.21666667, 23.0338889]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 25,
+        "Month": 2,
+        "Day": 5,
+        "Time": "2205 UTC",
+        "Vessel Name": "MAERSK CAPRI",
+        "Ship Type": "锚泊化学品船",
+        "IMO": "9786140",
+        "Waters": null,
+        "Longitude": 3.91666667,
+        "Latitude": 98.66666667,
+        "Region": "东南亚",
+        "Position": "印度尼西亚",
+        "Attack Type": "偷盗",
+        "Weapon Type": "非枪支",
+        "Info": "2月05日，位于印度尼西亚03°55N  098°40E位置，时间2205 UTC。一艘锚泊化学\n品船上的例行巡逻值班人员注意到一名强盗登轮，值班人员发出警报，海盗逃跑。船\n员集合并搜索船只，据报道船上物品失踪。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [98.66666667, 3.91666667]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 26,
+        "Month": 2,
+        "Day": 5,
+        "Time": null,
+        "Vessel Name": "JIN HWA 43",
+        "Ship Type": "拖轮",
+        "IMO": "9689768",
+        "Waters": null,
+        "Longitude": 1.2175,
+        "Latitude": 103.5886111,
+        "Region": "东南亚",
+        "Position": "印度尼西亚",
+        "Attack Type": "偷盗",
+        "Weapon Type": "非枪支",
+        "Info": "当拖轮拖驳正在进行时，拖轮船长向新加坡船舶交通信息系统(VTIS)和新加坡警方海岸警卫队报告说，一些劫匪从几艘小船上登上拖轮。\n驳船上装满了废铁。\n船长后来报告说，强盗们离开驳船的时候带了一些废铁。\n拖船和驳船继续其前往马来西亚槟城的航程。\n机组人员没有受伤。\n一些废铁被偷了。\n拖船船长向新加坡船舶交通信息系统(VTIS)和新加坡警察海岸警卫队报告了这一事件。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.5886111, 1.2175]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 27,
+        "Month": 2,
+        "Day": 9,
+        "Time": "0340 UTC",
+        "Vessel Name": "HISTRIA IVORY",
+        "Ship Type": "油轮",
+        "IMO": "9356244",
+        "Waters": null,
+        "Longitude": 6.35027778,
+        "Latitude": -10.78555556,
+        "Region": "西非",
+        "Position": "利比里亚",
+        "Attack Type": "偷盗",
+        "Weapon Type": "非枪支",
+        "Info": "2月09日，位于利比里亚蒙罗维亚港06°21.1N  010°47.8W位置，时间0340 UTC。\n停泊油轮上的值班人员注意到一名持刀的强盗。警报响起，海盗逃跑。在搜查船只时，\n发现船舶物品被盗。事件报告给当地代理。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-10.78555556, 6.35027778]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 28,
+        "Month": 2,
+        "Day": 9,
+        "Time": null,
+        "Vessel Name": null,
+        "Ship Type": "货轮",
+        "IMO": null,
+        "Waters": null,
+        "Longitude": 7.9,
+        "Latitude": 121.46666667,
+        "Region": "东南亚",
+        "Position": "菲律宾",
+        "Attack Type": "侵扰",
+        "Weapon Type": "非枪支",
+        "Info": "2月09日，位于菲律宾7°54N  121°28E位置，一艘行进中的货轮遭遇小艇尾随。其\n在7°54N 121°28E位置遭遇小艇，小艇一直尾随至7°00N  121°42E位置。期间，\n小艇多次向船舶发起冲击，由于武装护卫在船，海盗袭击并未得逞。船员没有受到伤害。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.46666667, 7.9]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 29,
+        "Month": 2,
+        "Day": 10,
+        "Time": null,
+        "Vessel Name": "RTM DAMPIER",
+        "Ship Type": "散货船",
+        "IMO": "9591325",
+        "Waters": null,
+        "Longitude": 38.8805556,
+        "Latitude": 118.70166667,
+        "Region": "东南亚",
+        "Position": "山东",
+        "Attack Type": "偷盗",
+        "Weapon Type": "非枪支",
+        "Info": "在抛锚的时候，一个强盗登上了船。\n二副从左舷桥翼看到左舷低硫柴油(LSDO)舱的人孔被打开，有一根软管连接到油箱上。\n在左舷上方，他看到一艘没有灯光的小驳船。\n他立即通知了船长和大副。\n正在巡逻的值班人员A\/B也接到了检查左舷的警报。\n劫匪立即将水管从水箱中取出，当他的存在被发现时，他跳上了驳船。\n事件发生后，船上进行了搜查。\n船上没有发现其他强盗。\n据报有67公吨的LSDO被盗。\n向曹妃甸VTS报告。\n机组人员没有受伤。\n67公吨低硫柴油被盗。\n二副马上通知了船长和大副。\n正在巡逻的值班人员A\/B也接到了检查左舷的警报。\n对那艘船进行了搜查。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [118.70166667, 38.8805556]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 30,
+        "Month": 2,
+        "Day": 10,
+        "Time": "1840 UTC",
+        "Vessel Name": null,
+        "Ship Type": "货船",
+        "IMO": null,
+        "Waters": null,
+        "Longitude": 52.83333333,
+        "Latitude": 118.70166667,
+        "Region": "东南亚",
+        "Position": "曹妃甸",
+        "Attack Type": "偷盗",
+        "Weapon Type": "非枪支",
+        "Info": "2月10日，位于曹妃甸52°50N 118°42.60E位置，时间1840 UTC。一艘锚泊散货船上的\n值班人员从桥翼上注意到一条软管，该软管从一个开放的DO罐式人孔连接到船旁的小型未\n点燃驳船。警报发出，听到警报后，值班人员注意到一名强盗降下软管并驾驶驳船跑。事\n件报给曹妃甸当局。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [118.70166667, 52.83333333]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 31,
+        "Month": 2,
+        "Day": 11,
+        "Time": null,
+        "Vessel Name": "EVER DIEM",
+        "Ship Type": "集装箱船",
+        "IMO": "9134270",
+        "Waters": null,
+        "Longitude": 2.5,
+        "Latitude": 54.15,
+        "Region": "印度洋",
+        "Position": "塞舌尔马赫",
+        "Attack Type": "侵扰",
+        "Weapon Type": "非枪支",
+        "Info": "2月11日，位于塞舌尔马赫约145海里处，一艘新加坡国旗的集装箱在前往蒙巴萨的途中遭\n遇疑似海盗船尾随。一艘可疑船只在尾随20分钟后视图接近该船，集装箱立即提速并启动\n消防泵、拉响了警报。随后可疑船只放弃了袭击。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [54.15, 2.5]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 32,
+        "Month": 2,
+        "Day": 19,
+        "Time": "1440LT",
+        "Vessel Name": null,
+        "Ship Type": null,
+        "IMO": null,
+        "Waters": null,
+        "Longitude": 12.76666667,
+        "Latitude": 48.31666667,
+        "Region": "东非",
+        "Position": "亚丁湾",
+        "Attack Type": "侵扰",
+        "Weapon Type": "非枪支",
+        "Info": "2月19日，位于亚丁湾12°46 N  048°19E位置，时间1440LT。值班人员在雷达上发现\n两艘可疑小艇，在距离3.5海里处，小艇突然加速至22节并向船舶靠近。随船华信中安武\n装安保鸣枪示警，在鸣枪4发后，小艇转向停止向船舶靠近。船舶及船员安全。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [48.31666667, 12.76666667]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 33,
+        "Month": 2,
+        "Day": 19,
+        "Time": "1345 UTC",
+        "Vessel Name": "PETERBOROUGH",
+        "Ship Type": "散货船",
+        "IMO": "9483188",
+        "Waters": null,
+        "Longitude": -3.69333333,
+        "Latitude": 114.44611111,
+        "Region": "东南亚",
+        "Position": "印度尼西亚",
+        "Attack Type": "偷盗",
+        "Weapon Type": "非枪支",
+        "Info": "2月19日，位于印度尼西亚03°41′36S 114°26′46E位置，时间1345 UTC。一艘停泊的\n散货船上的值班人员在例行巡逻中发现储存室的物品被盗。事件报告给港口当局，当局派\n出海警上船调查。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.44611111, -3.69333333]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 34,
+        "Month": 2,
+        "Day": 21,
+        "Time": "0500 UTC",
+        "Vessel Name": null,
+        "Ship Type": "油轮",
+        "IMO": null,
+        "Waters": null,
+        "Longitude": 4.93333333,
+        "Latitude": -1.56666667,
+        "Region": "西非",
+        "Position": "尼日利亚",
+        "Attack Type": "偷盗",
+        "Weapon Type": "非枪支",
+        "Info": "2月21日，位于尼日利亚04°56N  001°34W位置，时间0500 UTC。未被注意的劫匪登上\n了一艘停泊的油轮。他们在偷盗船舶物品后逃走，值班人员在例行巡逻中发现了此事。事\n件向地方当局报告。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.56666667, 4.93333333]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 35,
+        "Month": 2,
+        "Day": 21,
+        "Time": "0016 UTC",
+        "Vessel Name": "KOTA SATRIA",
+        "Ship Type": "集装箱船",
+        "IMO": "9645487",
+        "Waters": null,
+        "Longitude": 2.98472222,
+        "Latitude": 5.935,
+        "Region": "西非",
+        "Position": "尼日利亚",
+        "Attack Type": "袭击",
+        "Weapon Type": "枪支",
+        "Info": "2月21日，位于尼日利亚02°59.5N  005°56.6E位置，时间0016 UTC。一艘快艇上约有\n四至六名武装海盗靠近并向正在进行的集装箱船开火。警报提升，非必要的船员在安全舱\n中集合。由于采取了规避措施，海盗未能成功登轮。尼日利亚海军被通知，据报道船只和\n船员安全。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.935, 2.98472222]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 36,
+        "Month": 2,
+        "Day": 22,
+        "Time": null,
+        "Vessel Name": null,
+        "Ship Type": "渔船",
+        "IMO": null,
+        "Waters": null,
+        "Longitude": 4.28333333,
+        "Latitude": 8.75,
+        "Region": "西非",
+        "Position": "喀麦隆",
+        "Attack Type": "袭击、绑架",
+        "Weapon Type": "枪支",
+        "Info": "2月22日，位于喀麦隆04°17N  008°45E位置，武装海盗袭击了多艘渔船，其中有中国\n籍船员被绑架，此事的具体信息并没有披露。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.75, 4.28333333]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 37,
+        "Month": 2,
+        "Day": 23,
+        "Time": "0400 UTC",
+        "Vessel Name": "ANNA",
+        "Ship Type": "杂货船",
+        "IMO": "9501887",
+        "Waters": null,
+        "Longitude": 4.90166667,
+        "Latitude": -1.66722222,
+        "Region": "西非",
+        "Position": "加纳",
+        "Attack Type": "偷盗",
+        "Weapon Type": "非枪支",
+        "Info": "2月23日，位于西非加纳04°54′6N 001°40′2W位置，时间0400 UTC。一艘锚泊的货船\n报告，船上的储存室物品被盗，当地海警已经介入调查。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.66722222, 4.90166667]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 38,
+        "Month": 2,
+        "Day": 24,
+        "Time": "1106UTC",
+        "Vessel Name": null,
+        "Ship Type": "散货船",
+        "IMO": null,
+        "Waters": null,
+        "Longitude": -3.71666667,
+        "Latitude": 26.05,
+        "Region": "东南亚",
+        "Position": "印度尼西亚",
+        "Attack Type": "侵扰",
+        "Weapon Type": "非枪支",
+        "Info": "2月24日，位于印度尼西亚3°43'S 114°26'3 E位置，时间1106UTC。一艘锚泊散货船上\n的值班人员在例行巡逻过程中发现两名海盗正视图通过锚链登上船舶。值班人员随即发出\n警报，全船人员结合。听到警报声后，两名海盗撤回到船舷边等待的小艇后逃跑了。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [26.05, -3.71666667]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 39,
+        "Month": 2,
+        "Day": 24,
+        "Time": "0715UTC",
+        "Vessel Name": null,
+        "Ship Type": "油轮",
+        "IMO": null,
+        "Waters": null,
+        "Longitude": 12.26666667,
+        "Latitude": 44.05,
+        "Region": "东非",
+        "Position": "亚丁湾",
+        "Attack Type": "侵扰",
+        "Weapon Type": "非枪支",
+        "Info": "2月24日，位于亚丁湾12°16N  044°03E位置，时间0715UTC。两艘小船驶近Perim岛西\n南42海里的一艘正在进行中的油轮，距离油轮最近时的距离为1海里。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [44.05, 12.26666667]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 40,
+        "Month": 2,
+        "Day": 25,
+        "Time": null,
+        "Vessel Name": null,
+        "Ship Type": "散货船",
+        "IMO": null,
+        "Waters": null,
+        "Longitude": -3.719444444,
+        "Latitude": 114.4416667,
+        "Region": "东南亚",
+        "Position": "印度尼西亚",
+        "Attack Type": "侵扰",
+        "Weapon Type": "非枪支",
+        "Info": "在一艘被锚定的船上，值班的值班员发现有两名劫匪试图通过锚链登船。他立即通知了发出警报的船员，船员们集合起来。看到船员们的警觉，强盗们退回到他们等候着的小艇中逃走了。事件报告给Taboneo港口控制中心。机组人员没有受伤。\n没有物品被盗。警报响起，船员集合。\n船长向当地港务局报告了这一事件。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.4416667, -3.719444444]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 41,
+        "Month": 2,
+        "Day": 26,
+        "Time": "0830UTC",
+        "Vessel Name": null,
+        "Ship Type": "游艇",
+        "IMO": null,
+        "Waters": null,
+        "Longitude": 12.93333333,
+        "Latitude": 48.28333333,
+        "Region": "东非",
+        "Position": "亚丁湾",
+        "Attack Type": "侵扰",
+        "Weapon Type": "非枪支",
+        "Info": "2月26日，位于亚丁湾12°56N  048°17E位置，时间0830UTC。亚丁湾的一艘正在进行中\n的游艇，在位于Al Mukalla西南约109海里的位置被一艘小艇试图接近。最近时的距离为1\n海里，可以明显的看到小船上有梯子。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [48.28333333, 12.93333333]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 42,
+        "Month": 2,
+        "Day": 27,
+        "Time": "0500 UTC",
+        "Vessel Name": null,
+        "Ship Type": "油轮",
+        "IMO": null,
+        "Waters": null,
+        "Longitude": 4.93444444,
+        "Latitude": -1.5675,
+        "Region": "西非",
+        "Position": "加纳",
+        "Attack Type": "偷盗",
+        "Weapon Type": "非枪支",
+        "Info": "2月27日，位于西非加纳04°56′4N  001°34′3W,时间0500 UTC。未被发现的海盗登上一\n艘停泊的油轮，在偷走船上的物品后逃跑了。船上的值班员在例行的巡逻中发现船舶物品被\n盗。事件被报告给当地港口当局。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.5675, 4.93444444]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 43,
+        "Month": 2,
+        "Day": 27,
+        "Time": "2000 UTC",
+        "Vessel Name": null,
+        "Ship Type": "油轮",
+        "IMO": null,
+        "Waters": null,
+        "Longitude": 3.13333333,
+        "Latitude": 6.05,
+        "Region": "西非",
+        "Position": "尼日利亚",
+        "Attack Type": "袭击",
+        "Weapon Type": "枪支",
+        "Info": "2月27日，位于尼日利亚布拉斯03°08N  006°03E位置，时间2000 UTC。一艘行进中的油轮\n上的值班人员在雷达上注意到，在距离4海里处有两个可疑目标。在距离2海里时，目标突然高\n速向船舶接近。当小船靠近油轮时，快艇上的海盗开火了。船舶上的尼日利亚海军人员进行了\n还击。小船撤退并跟随油轮一小段时间，然后离开。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.05, 3.13333333]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 44,
+        "Month": 2,
+        "Day": 27,
+        "Time": "0854 UTC",
+        "Vessel Name": "AFRICAN GEM",
+        "Ship Type": "油轮",
+        "IMO": "9085390",
+        "Waters": null,
+        "Longitude": 3.11666667,
+        "Latitude": 6.2,
+        "Region": "西非",
+        "Position": "尼日利亚",
+        "Attack Type": "袭击",
+        "Weapon Type": "枪支",
+        "Info": "2月27日，位于尼日利亚布拉斯03°07N  006°12E位置，时间0854 UTC。两艘载有16名武\n装人员的小船向一艘正在进行的油轮开火并企图登船。警报发出，非必要的船员集合在安全\n舱。附近的一艘安全船做出了安全回应，小艇撤离。船员和船只报告安全。事件向尼日利亚\n海军报告。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.2, 3.11666667]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 45,
+        "Month": 2,
+        "Day": 27,
+        "Time": null,
+        "Vessel Name": "MAERSK JAMNAGAR",
+        "Ship Type": "油轮",
+        "IMO": "9524982",
+        "Waters": null,
+        "Longitude": 4.944444444,
+        "Latitude": -1.575,
+        "Region": "西非",
+        "Position": "科特迪瓦",
+        "Attack Type": "袭击",
+        "Weapon Type": "枪支",
+        "Info": "劫匪们悄无声息地登上了一艘抛锚的油轮。\n他们偷了船上的物资逃跑了。\n事件",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.575, 4.944444444]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 46,
+        "Month": 2,
+        "Day": 28,
+        "Time": null,
+        "Vessel Name": "BOURBON EXPLORER 502",
+        "Ship Type": "补给船",
+        "IMO": "9653898",
+        "Waters": null,
+        "Longitude": 3.888888889,
+        "Latitude": 7.080555556,
+        "Region": "西非",
+        "Position": "尼日利亚",
+        "Attack Type": "袭击",
+        "Weapon Type": "枪支",
+        "Info": "两艘载有16人的快艇追逐并向一艘正在航行的近海补给船开火。\n警报响起，船只加快速度，开始闪避，非必要的船员也在大本营集合。\n护卫舰介入以击退攻击。\n船舰在舰桥上遭受枪伤。\n全体船员报告安全。\n尼日利亚海军护送该船到一个安全的港口。\n船舰在舰桥上遭受枪伤。\n警报响起，船只加快速度，开始闪避，非必要的船员也在大本营集合。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.080555556, 3.888888889]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 47,
+        "Month": 3,
+        "Day": 2,
+        "Time": "12:30UTC",
+        "Vessel Name": "CAP THEODORA",
+        "Ship Type": "油轮",
+        "IMO": "9380740",
+        "Waters": null,
+        "Longitude": 4.61666667,
+        "Latitude": 3.26666667,
+        "Region": "西非",
+        "Position": "尼日利亚",
+        "Attack Type": "袭击",
+        "Weapon Type": "枪支",
+        "Info": "3月02日，位于尼日利亚拉各斯，04°37'N 003°16'E位置，时间12:30UTC。一艘前往乌拉圭\n的油轮遭到两艘快艇的袭击。在海盗登上油轮之前，船员撤回到安全舱。据后续报告船员和船\n只是安全的。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.26666667, 4.61666667]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 48,
+        "Month": 3,
+        "Day": 3,
+        "Time": "20:30UTC",
+        "Vessel Name": "HISTRIA IVORY",
+        "Ship Type": "油轮",
+        "IMO": "马耳他",
+        "Waters": null,
+        "Longitude": 5.61666667,
+        "Latitude": 1.18333333,
+        "Region": "西非",
+        "Position": "多哥洛美",
+        "Attack Type": "袭击",
+        "Weapon Type": "枪支",
+        "Info": "3月03日，位于多哥洛美5°37N  1°11 E位置，时间20:30UTC。马耳他船籍的“HISTRIA IVORY”计划将石油产品从多哥运往利比里亚。“HISTRIA IVORY”船在离开多哥洛美港后不\n久遭到海盗袭击。海盗在距离港口20海里处袭击了这艘船，海盗登上这艘船并绑架了3名人质\n。在那之后，海盗带着人质离开了船舶，其他船员回到了洛美。据悉，该船有21名船员，海盗\n袭击后船舶的部分设施被损坏。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1.18333333, 5.61666667]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 49,
+        "Month": 3,
+        "Day": 5,
+        "Time": "0310 UTC",
+        "Vessel Name": "金华43",
+        "Ship Type": "拖船",
+        "IMO": "马来西亚",
+        "Waters": null,
+        "Longitude": 1.2,
+        "Latitude": 103.56666667,
+        "Region": "东南亚",
+        "Position": "马六甲海峡",
+        "Attack Type": "抢劫",
+        "Weapon Type": "枪支",
+        "Info": "3月05日，位于马六甲海峡，01°12N  103°34E位置，时间0310 UTC。11名劫匪登上正在进\n行中的马来西亚国旗拖船“金华43”。海盗没有绑架船员，但是船上运载的货物被抢走了。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.56666667, 1.2]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 50,
+        "Month": 3,
+        "Day": 8,
+        "Time": null,
+        "Vessel Name": null,
+        "Ship Type": "油轮",
+        "IMO": null,
+        "Waters": null,
+        "Longitude": null,
+        "Latitude": null,
+        "Region": "东南亚",
+        "Position": "曼德海峡",
+        "Attack Type": "袭击",
+        "Weapon Type": "枪支",
+        "Info": "3月08日，位于曼德海峡位置，一艘运载15万吨石油的伊朗油轮在曼德海峡遭遇11艘海盗快艇袭击。当时，恰逢伊朗海军的两艘水面战斗舰及一艘补给舰在该区域执行军事任务。该海军编队在伊朗油轮遭到袭击后迅速做出反应，驱离了海盗快艇，保证了油轮的安全。关于此事件的更多详细信息伊朗海军没有更多的透露。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 51,
+        "Month": 3,
+        "Day": 9,
+        "Time": "1115 UTC",
+        "Vessel Name": "E. Francis",
+        "Ship Type": "近海补给船",
+        "IMO": "7408897",
+        "Waters": null,
+        "Longitude": 3.95,
+        "Latitude": 6.65,
+        "Region": "西非",
+        "Position": "尼日利亚",
+        "Attack Type": "袭击",
+        "Weapon Type": "枪支",
+        "Info": "3月09日，位于尼日利亚03°57N  006°39E位置，时间1115 UTC。两艘装有机枪的海盗快艇\n袭击了一艘正在行进中的近海补给船。船长立即通知了海军护航安全船。一艘海盗快艇从补给\n船的左舷越过船头，另外一艘快艇与护航安全船发生交火。近海补给船发出求救信号后，关闭\n了所有电源，船员躲进了机舱。海盗借助一根细长的梯子登上了船只。海盗登轮后，破坏了船\n舱随后前往机舱，绑架了五名船员并逃脱。据报道，一名尼日利亚海军武装警卫在与海盗交火\n的过程中丧生。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.65, 3.95]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 52,
+        "Month": 3,
+        "Day": 10,
+        "Time": "0430UTC",
+        "Vessel Name": null,
+        "Ship Type": "散货船",
+        "IMO": null,
+        "Waters": null,
+        "Longitude": 4.05138889,
+        "Latitude": -50.95222222,
+        "Region": "拉丁美洲",
+        "Position": "巴拿马卡帕",
+        "Attack Type": "袭击",
+        "Weapon Type": "非枪支",
+        "Info": "3月10日，位于巴西马卡帕04°3'5 N  50°57'8 W位置，时间0430UTC 。两名持刀的劫匪\n在巴西马卡帕，使用带钩的绳索登上锚定的散货船。值班水手发现了劫匪并发出了警报，听到\n警报后，劫匪逃走了，船舶和船员是安全的。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-50.95222222, 4.05138889]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 53,
+        "Month": 3,
+        "Day": 10,
+        "Time": null,
+        "Vessel Name": "PILION",
+        "Ship Type": "散货船",
+        "IMO": "9425825",
+        "Waters": null,
+        "Longitude": 0.063888889,
+        "Latitude": 50.97222222,
+        "Region": "东非",
+        "Position": "索马里",
+        "Attack Type": "袭击",
+        "Weapon Type": "枪支",
+        "Info": "两名劫匪手持刀具，用一根有钩子的绳子登上了一艘抛锚的船。\n值班AB在例行巡逻时发现了强盗，并立即通知OOW, OOW发出了警报。\n广播通知已发出，全体船员已集合。\n劫匪们看到警报后，没有偷任何东西就逃走了。\n事件已向港口当局报告。\n警报响起，船员集合",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [50.97222222, 0.063888889]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 54,
+        "Month": 3,
+        "Day": 19,
+        "Time": "0700 UTC",
+        "Vessel Name": null,
+        "Ship Type": null,
+        "IMO": null,
+        "Waters": null,
+        "Longitude": -12.035,
+        "Latitude": -77.20083333,
+        "Region": "拉丁美洲",
+        "Position": "秘鲁",
+        "Attack Type": "侵扰",
+        "Weapon Type": "非枪支",
+        "Info": "3月19日，位于秘鲁12°01′66S  077°12′03W位置，时间0700 UTC。四名穿着夹克的劫匪\n乘坐一条小船接近一艘锚定的船舶。例行巡逻的值班人员注意到劫匪试图通过锚索登上船。值\n班人员随即发出警报。看到警觉的船员，劫匪放弃了登轮并逃跑。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.20083333, -12.035]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 55,
+        "Month": 3,
+        "Day": 20,
+        "Time": "1000",
+        "Vessel Name": null,
+        "Ship Type": "商船",
+        "IMO": null,
+        "Waters": null,
+        "Longitude": 20.05,
+        "Latitude": 59.01805556,
+        "Region": "东非",
+        "Position": "亚丁湾",
+        "Attack Type": "侵扰",
+        "Weapon Type": "非枪支",
+        "Info": "3月20日，位于亚丁湾 20°03′N  059°01′5E位置，当地时间1000。华信中安护航的商船\n遭遇海盗袭扰。船舶值班人员发现右前方6海里处有高速小艇\/疑似海盗小艇向我轮驶来，我轮\n立即进入防海盗应变部署，船长上驾驶台指挥，船员从主甲板撤回，暂停备舱工作，关闭所有\n水密门；三名华信中安保安队员荷枪实弹在驾驶台两翼就位。当疑似海盗船离我轮还有3海里时，2条小艇穿越我轮船头，三条穿越我轮船尾，航速30节。当小艇离我轮1.47海里时，开始\n改向，尾随我轮。我们可以清楚的看到，小艇上有3到5人不等，作案的企图非常明显。保安队\n长在船长的指令下，鸣枪三发示警可疑船只。鸣枪后，疑似海盗小艇的速度随即减至3节，在\n我轮船尾附近游弋。12:00 疑似海盗小艇消失在雷达监控范围和视野中，防海盗部署解除。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [59.01805556, 20.05]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 56,
+        "Month": 3,
+        "Day": 20,
+        "Time": "06:00UTC",
+        "Vessel Name": null,
+        "Ship Type": "客船",
+        "IMO": null,
+        "Waters": null,
+        "Longitude": 4.43333333,
+        "Latitude": 8.35,
+        "Region": "西非",
+        "Position": "尼日利亚",
+        "Attack Type": "袭击",
+        "Weapon Type": "枪支",
+        "Info": "3月20日，位于尼日利亚4°26'0 N  8°21'0 E位置，时间06:00UTC。7名持有AK-47的劫匪\n袭击了一艘客船。劫匪登上船只并抢劫了乘客和船员，然后逃离。船舶在10:30左右安全\n停泊在卡拉巴尔的Shoreline Jetty码头。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.35, 4.43333333]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 57,
+        "Month": 3,
+        "Day": 21,
+        "Time": "0435 UTC",
+        "Vessel Name": "CABO FUJI",
+        "Ship Type": "油轮",
+        "IMO": "9730878",
+        "Waters": null,
+        "Longitude": 10.18388889,
+        "Latitude": -64.78444444,
+        "Region": "拉丁美洲",
+        "Position": "委内瑞拉",
+        "Attack Type": "袭击",
+        "Weapon Type": "非枪支",
+        "Info": "3月21日，位于委内瑞拉10°11′2N  064°47′4W，时间0435 UTC。三名持刀的劫匪登上了\n一艘停泊的油轮。甲板上的船员发现了劫匪，在劫匪用刀威胁他并抢走对讲机之前，船员通知\n了值班驾驶员。警报发出，船员集合，劫匪与他们的同伙在听到警报声后逃跑。事件向港务局\n报告。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.78444444, 10.18388889]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 58,
+        "Month": 3,
+        "Day": 21,
+        "Time": "0900 UTC",
+        "Vessel Name": "NAVIGATOR VIRGO",
+        "Ship Type": "液化船 油轮",
+        "IMO": "9404819",
+        "Waters": null,
+        "Longitude": 18.40222222,
+        "Latitude": -69.31694444,
+        "Region": "拉丁美洲",
+        "Position": "多米尼加",
+        "Attack Type": "偷盗",
+        "Weapon Type": "非枪支",
+        "Info": "3月21日，位于多米尼加共和国18°24′8N  069°19′1W位置，时间0900 UTC。未被注意的\n劫匪登上一艘停泊的油轮，劫匪偷走了船上的财产并逃跑了。值班人员在例行巡逻中发现了该\n起事件。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-69.31694444, 18.40222222]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 59,
+        "Month": 3,
+        "Day": 24,
+        "Time": "2235 UTC",
+        "Vessel Name": "NORD STEADY",
+        "Ship Type": "油轮",
+        "IMO": "9629706",
+        "Waters": null,
+        "Longitude": 6.25055556,
+        "Latitude": 3.20083333,
+        "Region": "西非",
+        "Position": "尼日利亚",
+        "Attack Type": "偷盗",
+        "Weapon Type": "非枪支",
+        "Info": "3月24日，位于尼日利亚拉各斯06°15′2N  003°12′3E位置，时间2235 UTC。两名劫匪设\n法登上一艘锚定的油轮，并开始使用软管窃取油货。值班水手注意到劫匪并报告给值班驾驶\n员。事件报告附近的一艘海军巡逻艇。看到警觉的船员，劫匪逃跑了。所有船员和船只都是安\n全的。据报道，海军巡逻艇设法拦截船只并逮捕劫匪。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.20083333, 6.25055556]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 61,
+        "Month": 3,
+        "Day": 26,
+        "Time": "2030 UTC",
+        "Vessel Name": "TRF KAYA",
+        "Ship Type": "集装箱船",
+        "IMO": "9330549",
+        "Waters": null,
+        "Longitude": 14.55083333,
+        "Latitude": 120.90027778,
+        "Region": "东南亚",
+        "Position": "菲律宾",
+        "Attack Type": "偷盗",
+        "Weapon Type": "非枪支",
+        "Info": "3月26日，位于菲律宾马尼拉14°33′3N 120°54′1E位置，时间2030 UTC。一艘锚泊的散货船上的值班人员在例行巡逻中发现了盗窃事件。值班人员在甲板上发现了可疑足迹并发现船舶储存室被撬开，船舶物品丢失。事件向港口当局报告，海岸警卫队介入调查。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [120.90027778, 14.55083333]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 62,
+        "Month": 3,
+        "Day": 28,
+        "Time": "0410 UTC",
+        "Vessel Name": "DIAMONDWAY",
+        "Ship Type": "油轮",
+        "IMO": "9742895",
+        "Waters": null,
+        "Longitude": 10.18444444,
+        "Latitude": -64.86694444,
+        "Region": "拉丁美洲",
+        "Position": "委内瑞拉",
+        "Attack Type": "袭击",
+        "Weapon Type": "非枪支",
+        "Info": "3月28日，位于委内瑞拉10°11′4N  064°52′1W位置，时间0410 UTC，五名持刀和管钳的\n劫匪登上了一艘锚泊油轮。他们把船尾的值班船员绑起来，然后闯入油漆库房。警报发出，船\n员集合。警报发出后，劫匪偷了一些油漆然后逃跑了。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.86694444, 10.18444444]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 63,
+        "Month": 3,
+        "Day": 29,
+        "Time": "0236 UTC",
+        "Vessel Name": "ANUKET PEARL",
+        "Ship Type": "油轮",
+        "IMO": "9395886",
+        "Waters": null,
+        "Longitude": 4.89055556,
+        "Latitude": -1.695,
+        "Region": "西非",
+        "Position": "加纳",
+        "Attack Type": "侵扰",
+        "Weapon Type": "非枪支",
+        "Info": "3月29日，位于加纳04°52′86N  001°41′42W位置，时间0236 UTC。一艘锚泊的油轮上，\n值班人员发现油漆储藏室被打开，随后发现一名海盗。值班人员迅速将探照灯指向海盗并发出\n警报。听到警报后，这名海盗逃跑。事件报给港口当局，港口水警登船进行调查。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.695, 4.89055556]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 64,
+        "Month": 3,
+        "Day": 30,
+        "Time": "2140UTC",
+        "Vessel Name": null,
+        "Ship Type": "集装箱船",
+        "IMO": null,
+        "Waters": null,
+        "Longitude": 3.88333333,
+        "Latitude": 9.5,
+        "Region": "西非",
+        "Position": "尼日利亚",
+        "Attack Type": "抢劫",
+        "Weapon Type": "枪支",
+        "Info": "3月30日，位于尼日利亚喀麦隆，03°53N  009°30E位置，时间2140UTC。集装箱船CONTSHI\nP OAK在喀麦隆Bonny湾附近海域锚泊时遭到武装海盗袭击。武装海盗登上了这艘船，抢劫了船\n员的财物。随后，海盗绑架了四名船员并逃跑。CONTSHIP OAK于3月31日停靠在杜阿拉，截至4月2日上午，船舶仍然停靠在杜阿拉。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.5, 3.88333333]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 65,
+        "Month": 3,
+        "Day": 30,
+        "Time": "0310 UTC",
+        "Vessel Name": "NORD STEADY",
+        "Ship Type": "油轮",
+        "IMO": "9629706",
+        "Waters": null,
+        "Longitude": 6.3025,
+        "Latitude": 3.28444444,
+        "Region": "西非",
+        "Position": "尼日利亚",
+        "Attack Type": "侵扰",
+        "Weapon Type": "非枪支",
+        "Info": "3月30日，位于尼日利亚06°18′9N  003°17′4E位置，时间0310 UTC。一艘锚泊的油轮\n上，值班人员发现甲板上有一些可疑人员，值班人员随即发出警报。听到警报声后，可疑人员\n逃跑。经检查，船舶并无物品被盗。事件报告给港口当局，尼日利亚海军巡逻艇对附近海域进\n行了搜查。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.28444444, 6.3025]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 66,
+        "Month": 4,
+        "Day": 1,
+        "Time": "0600UTC",
+        "Vessel Name": null,
+        "Ship Type": "散货船",
+        "IMO": null,
+        "Waters": null,
+        "Longitude": null,
+        "Latitude": null,
+        "Region": "西非",
+        "Position": "摩洛哥",
+        "Attack Type": "偷盗",
+        "Weapon Type": "非枪支",
+        "Info": "4月01日，位于摩洛哥卡萨布兰卡港T36码头位置，时间0600UTC。一艘锚泊的散货船上，值班\n人员听到甲板上有噪音。当他走近该区域时，发现救生艇被打开了，救生艇上的物品被盗。看\n到值班人员后，两名海盗跳下船舶逃跑。事件报告给港口当局，港口警察登船调查。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 67,
+        "Month": 4,
+        "Day": 1,
+        "Time": "0745 UTC",
+        "Vessel Name": null,
+        "Ship Type": "领航船",
+        "IMO": null,
+        "Waters": null,
+        "Longitude": -2.51888889,
+        "Latitude": -80.08444444,
+        "Region": "拉丁美洲",
+        "Position": "厄瓜多尔",
+        "Attack Type": "侵扰",
+        "Weapon Type": "非枪支",
+        "Info": "4月01日，位于厄瓜多尔02°31′8S  080°05′4W位置，时间0745 UTC。领航船上的值班人\n员注意到雷达上有两个快速移动目标正在接近。船员发出警报，两盏探照灯都指向接近的船。\n一艘船上有大约10人带有抓钩，另一艘船从右舷靠近船，试图将伸缩梯挂在船舷上。船舶驾驶\n员通知了港口管制和海岸警卫队。快艇上的海盗向搜索灯开了几枪，导致所有船员都撤回到驾\n驶台和住所。后来，海盗放弃了袭击并离开了。所有船员都安全。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.08444444, -2.51888889]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 68,
+        "Month": 4,
+        "Day": 5,
+        "Time": "2100 UTC",
+        "Vessel Name": null,
+        "Ship Type": "油轮",
+        "IMO": null,
+        "Waters": null,
+        "Longitude": 6.16916667,
+        "Latitude": 3.34416667,
+        "Region": "西非",
+        "Position": "尼日利亚",
+        "Attack Type": "袭击",
+        "Weapon Type": "枪支",
+        "Info": "4月05日，位于尼日利亚拉各斯6°10′9N 003°20′39E位置，时间2100 UTC。9名持有自动\n武器和RPG的海盗登上一艘正在进行的油轮。值班人员发出警报，船员躲避。海盗劫持值\n班人员，他们损坏了导航和所有通信设备，偷走了船员和船舶财产，将船员锁在一个舱内并将\n船长当作人质。2019年4月9日，西班牙海军军舰试图与油轮建立联系。在没有收到回应后，军\n舰接近油轮，导致海盗逃跑。船长告诉海军登船队他们被劫持了四天。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.34416667, 6.16916667]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 69,
+        "Month": 4,
+        "Day": 5,
+        "Time": null,
+        "Vessel Name": "MARIA SOLTIN",
+        "Ship Type": "油轮",
+        "IMO": "7203699",
+        "Waters": null,
+        "Longitude": 5.819444444,
+        "Latitude": -3.816666667,
+        "Region": "西非",
+        "Position": "科特迪瓦",
+        "Attack Type": "袭击",
+        "Weapon Type": "枪支",
+        "Info": "九名海盗携带自动武器和RPG登上一艘正在进行海上试验的油轮。\n值班警官拉响了警报，船员们躲了起来。\n海盗劫持了值班员作人质，并命令全体船员从躲藏处出来。\n他们破坏了航行和所有的通讯设备，偷走了船员和船的财产，把所有船员锁在一个船舱里，并把船长作为人质。\n2019年4月9日，一艘西班牙军舰试图与这艘油轮建立联系。\n在没有得到回应的情况下，军舰向油轮靠近，导致海盗逃跑。\n船长告诉海军登船队，他们已被扣为人质四天。\n经过调查，海军登船队下了船。\n在继续她的航程时，主引擎因过热而不得不关闭。\nC\/E注意到水进入机舱，机舱后来被修理。\n由于没有任何仍在工作的通讯设备，这艘油轮在海上漂流了12天，才得以向一艘渔船求救。\n船长随后与船东联系，船东随后安排将油轮拖往加纳。\n该油轮于2019年4月22日抵达加纳安克雷奇。\n海盗登上并劫持了油轮。\n他们破坏了航行和所有的通讯设备，偷走了船员和船只的财产。\n一艘西班牙军舰登上油轮进行检查。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.816666667, 5.819444444]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 70,
+        "Month": 4,
+        "Day": 10,
+        "Time": "0502LT",
+        "Vessel Name": "PHOENIX \nWATER",
+        "Ship Type": "冷藏船",
+        "IMO": "利比亚",
+        "Waters": null,
+        "Longitude": 3.63333333,
+        "Latitude": 5.93333333,
+        "Region": "西非",
+        "Position": "尼日利亚",
+        "Attack Type": "袭击",
+        "Weapon Type": "枪支",
+        "Info": "4月10日，位于尼日利亚03°38′N 005°56′E位置，时间0502LT。利比亚旗冷藏船PHOENIX \nWATER在从特马（Tema\/Ghana）驶往哈克特(Harcourt\/Nigeria)的途中遭受两艘快艇的袭击\n，当时每艘小艇上有6-7人，船上的武装安保队两艘高速靠近的快艇进行了警告射击。两艘快\n艇听到枪声后随即停止袭击并调头离开。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.93333333, 3.63333333]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 71,
+        "Month": 4,
+        "Day": 13,
+        "Time": "1006 UTC",
+        "Vessel Name": "SONANGOL NAMIBE",
+        "Ship Type": "油轮",
+        "IMO": "9325049",
+        "Waters": null,
+        "Longitude": 17.61694444,
+        "Latitude": 83.31722222,
+        "Region": "东南亚",
+        "Position": "印度",
+        "Attack Type": "袭击",
+        "Weapon Type": "枪支",
+        "Info": "4月13日，位于印度17°37′1N  083°19′2E位置，时间1006 UTC。五艘快艇的人员利用绳\n索登上一艘锚泊的油轮。船舶值班人员发出警报，船员集合。可疑人员登上船舶后试图进入生\n活区，但被船员阻止。随后可疑人员仍留在甲板上，直到港口警察快到达时，可疑人员下船逃\n跑。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [83.31722222, 17.61694444]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 72,
+        "Month": 4,
+        "Day": 14,
+        "Time": "0645UTC",
+        "Vessel Name": "PORT IMABARI",
+        "Ship Type": "散货船",
+        "IMO": "9846263",
+        "Waters": null,
+        "Longitude": -12.01916667,
+        "Latitude": -77.18388889000001,
+        "Region": "拉丁美洲",
+        "Position": "秘鲁",
+        "Attack Type": "抢劫",
+        "Weapon Type": "枪支",
+        "Info": "4月14日，位于秘鲁12°1'9 S 77°11'2 W位置，时间0645UTC。五名海盗利用一根绳索登上\n一艘锚泊的散货船，海盗登上散货船后挟持了一名值班巡逻的水手并对他进行了殴打。值班驾\n驶员发现情况后，发出警报并集合船员。听到警报声后，五名海盗带着抢来的物品逃跑。事件\n报给港口当局。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.18388889, -12.01916667]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 73,
+        "Month": 4,
+        "Day": 15,
+        "Time": "2020 UTC",
+        "Vessel Name": "SAN PADRE PIO",
+        "Ship Type": "油轮",
+        "IMO": "9610339",
+        "Waters": null,
+        "Longitude": 4.46694444,
+        "Latitude": 7.16694444,
+        "Region": "西非",
+        "Position": "尼日利亚",
+        "Attack Type": "袭击",
+        "Weapon Type": "枪支",
+        "Info": "4月15日，位于尼日利亚04°28′1N  007°10′1E位置，时间2020 UTC。四名持有自动武器\n的海盗乘坐一艘快艇接近一艘停泊的油轮，接近油轮后其中的两人登上油轮并向生活区开枪。\n油轮值班人员立即向尼日利亚海军发出求救信号并发出警报信号。随船的武装安保在与海盗交\n火的过程中被打伤。随后两艘尼日利亚海军巡逻艇赶来，四名海盗逃跑。据悉，除了被海盗打\n伤的安保人员外，其余人员是安全的。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.16694444, 4.46694444]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 74,
+        "Month": 4,
+        "Day": 17,
+        "Time": null,
+        "Vessel Name": null,
+        "Ship Type": "游艇",
+        "IMO": null,
+        "Waters": null,
+        "Longitude": null,
+        "Latitude": null,
+        "Region": "拉丁美洲",
+        "Position": "委内瑞拉",
+        "Attack Type": "袭击",
+        "Weapon Type": "枪支",
+        "Info": "4月17日，位于委内瑞拉特立尼达北海岸附近的芙蓉石油平台东北约15海里处，发生一起海盗\n袭击事件。8名委内瑞拉武装海盗乘坐一艘快艇试图逼停一艘55英尺的游艇，但该游艇拒绝停\n下来并加速规避袭击。由于无法登上游艇，委内瑞拉海盗在向游艇开了几枪后离开了。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 75,
+        "Month": 4,
+        "Day": 19,
+        "Time": "0535 UTC",
+        "Vessel Name": "NYK LYRA",
+        "Ship Type": "集装箱船",
+        "IMO": "9229336",
+        "Waters": null,
+        "Longitude": 3.785,
+        "Latitude": -77.23416667,
+        "Region": "西非",
+        "Position": "尼日利亚",
+        "Attack Type": "侵扰",
+        "Weapon Type": "非枪支",
+        "Info": "4月19日，位于哥伦比亚03°47′6N  077°14′3W位置，时间0535 UTC。一艘载有8至10人\n的小艇接近一艘航行中的油轮，小艇上的人员试图用带有挂钩的梯子登上油轮。油轮值班人员\n发现海盗后发出警报并集合船员，船员在梯子上方集合导致海盗无法登轮，随后海盗离开。事\n件报告海岸警卫队，警卫队派出一艘巡逻艇前往调查。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.23416667, 3.785]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 76,
+        "Month": 4,
+        "Day": 19,
+        "Time": "1330 UTC",
+        "Vessel Name": null,
+        "Ship Type": "油轮",
+        "IMO": null,
+        "Waters": null,
+        "Longitude": 4.33194444,
+        "Latitude": 7.17944444,
+        "Region": "西非",
+        "Position": "尼日利亚",
+        "Attack Type": "绑架",
+        "Weapon Type": "枪支",
+        "Info": "4月19日，位于尼日利亚4°19′55N   7°10′46E位置，时间1330 UTC。海盗登上一艘锚泊\n的油轮，他们绑架了6名船员并带着人质逃跑。事件报告给港口当局，海军巡逻艇前往调查，\n其他船员是安全的。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.17944444, 4.33194444]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 77,
+        "Month": 4,
+        "Day": 21,
+        "Time": null,
+        "Vessel Name": null,
+        "Ship Type": "渔船",
+        "IMO": null,
+        "Waters": null,
+        "Longitude": 0.48333333,
+        "Latitude": 48.6,
+        "Region": "东非",
+        "Position": "索马里",
+        "Attack Type": "袭击",
+        "Weapon Type": "枪支",
+        "Info": "4月21日，位于索马里00°29′S  048°36′E位置。名为Adria和Txori Argi的两艘渔船遭\n遇海盗袭击。据称，两艘海盗艇快速接近其中的一艘渔船并向渔船开火，另外一艘渔船前往救\n援被袭击的渔船。两艘渔船上都有随船武装保安，袭击发生后，武装保安开火进行了反击，海\n盗袭击被击退。据悉，船上没有人员伤亡。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [48.6, 0.48333333]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 78,
+        "Month": 4,
+        "Day": 21,
+        "Time": "0900UTC",
+        "Vessel Name": "Shin Shuen Far 889",
+        "Ship Type": "渔船",
+        "IMO": null,
+        "Waters": null,
+        "Longitude": -1.05,
+        "Latitude": 48.7,
+        "Region": "东非",
+        "Position": "索马里",
+        "Attack Type": "袭击",
+        "Weapon Type": "枪支",
+        "Info": "4月21日，距离索马里摩加迪沙270海里处，位置01°03′S 048°42E，时间0900UTC。一艘名\n为“Shin Shuen Far 889”的渔船在行进的过程中遭遇两艘海盗艇快速接近，渔船上的船员\n发现海盗艇后发出了警报并向附近的其他渔船求救，其他渔船迅速前往支援并赶走了海盗艇。\n据悉，船员看到了海盗艇上的人员持有武器。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [48.7, -1.05]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 79,
+        "Month": 4,
+        "Day": 24,
+        "Time": "2210 UTC",
+        "Vessel Name": "Union Topaz",
+        "Ship Type": "拖船",
+        "IMO": null,
+        "Waters": null,
+        "Longitude": 1.19055556,
+        "Latitude": 103.56888889,
+        "Region": "东南亚",
+        "Position": "印度尼西亚",
+        "Attack Type": "侵扰",
+        "Weapon Type": "非枪支",
+        "Info": "4月24日，位于印度尼西亚尼帕岛1°11'26 N  103°34'8 E位置，时间2210 UTC 。4月24\n日一艘塞浦路斯注册的拖船Union Topaz拖着一辆反铲挖泥船，在印度尼西亚尼帕岛西北偏西\n约5海里处进行时，2名可疑人员通过木船靠近并登上挖泥船。船舶人员发出警告，两名可疑人\n员乘坐木船逃走。船员是安全的，没有报告被盗的物品。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.56888889, 1.19055556]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 80,
+        "Month": 4,
+        "Day": 24,
+        "Time": "0215UTC",
+        "Vessel Name": null,
+        "Ship Type": "油轮",
+        "IMO": null,
+        "Waters": null,
+        "Longitude": 6.33416667,
+        "Latitude": 3.33472222,
+        "Region": "西非",
+        "Position": "尼日利亚",
+        "Attack Type": "袭击",
+        "Weapon Type": "枪支",
+        "Info": "4月24日，位于尼日利亚拉各斯06°20′3N  003°20′5E位置，时间0215UTC。一艘小艇上\n的三名劫匪靠近并登上一艘停泊的油轮。值班水手注意到货油舱附近的劫匪并通知驾驶台人员\n。警报发出，全体船员集合。听到警报并看到船员集合后，劫匪跳下船，乘坐小艇逃跑。该事\n件被报告给一艘海军巡逻艇。没有报道被盗。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.33472222, 6.33416667]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 81,
+        "Month": 4,
+        "Day": 24,
+        "Time": null,
+        "Vessel Name": "UNION TOPAZ",
+        "Ship Type": "拖船",
+        "IMO": "9406427",
+        "Waters": null,
+        "Longitude": 1.22361111,
+        "Latitude": 103.53416667,
+        "Region": "东南亚",
+        "Position": "马来西亚",
+        "Attack Type": "袭击",
+        "Weapon Type": "枪支",
+        "Info": "4月24日，位于马来西亚1°13'25 N   103°32'3 E位置。一艘正在行进中的马来西亚注册\n的拖船在马来西亚Tanjung Piai位置附近被三到四名劫匪登船。该船舶向新加坡的VTIS报告\n了这一事件，该事件通知了马来西亚海事执法局（MMEA）。事件中报告没有人员受伤。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.53416667, 1.22361111]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 82,
+        "Month": 4,
+        "Day": 25,
+        "Time": "0340 UTC",
+        "Vessel Name": null,
+        "Ship Type": "散货船",
+        "IMO": null,
+        "Waters": null,
+        "Longitude": 12.28583333,
+        "Latitude": -72.01722222,
+        "Region": "拉丁美洲",
+        "Position": "哥伦比亚",
+        "Attack Type": "袭击",
+        "Weapon Type": "枪支",
+        "Info": "4月25日，位于哥伦比亚12°17′9N - 072°01′2W位置，时间0340 UTC。一艘小船上的两名\n海盗靠近并登上一艘锚泊的散货船。值班人员注意到劫匪并发出警报，船员集合。听到警报两\n名海盗逃跑。事件报告给海岸警卫队。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-72.01722222, 12.28583333]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 83,
+        "Month": 4,
+        "Day": 25,
+        "Time": null,
+        "Vessel Name": "OCEAN GLADIATOR",
+        "Ship Type": "成品油轮",
+        "IMO": "9241827",
+        "Waters": null,
+        "Longitude": 6.341388889,
+        "Latitude": 3.347222222,
+        "Region": "西非",
+        "Position": "尼日利亚",
+        "Attack Type": "袭击",
+        "Weapon Type": "枪支",
+        "Info": "三名劫匪乘坐一艘小船靠近一艘抛锚的油船。\n值班AB在例行巡逻时注意到货舱附近有强盗，并通知了OOW。\n警报响了，广播通知了，船员们集合了。\n听到警报，看到船员的警惕性，强盗们连同他们的水龙带一起跳下水，乘他们的船逃走了。\n事件被报告给了一艘海军巡逻艇。\n报告被偷窃。\n警报响了，广播通知了，船员们集合了",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.347222222, 6.341388889]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 84,
+        "Month": 4,
+        "Day": 26,
+        "Time": "0700 UTC",
+        "Vessel Name": "CS JOLA",
+        "Ship Type": "散货船",
+        "IMO": "9791896",
+        "Waters": null,
+        "Longitude": -12.01666667,
+        "Latitude": -77.21666667,
+        "Region": "拉丁美洲",
+        "Position": "秘鲁",
+        "Attack Type": "偷盗",
+        "Weapon Type": "非枪支",
+        "Info": "4月26日，位于秘鲁12°01S   077°13W位置，时间。劫匪登上了一艘锚定的散\n货船，在偷盗船舶上的物品后逃跑了。值班人员在常规的巡查中注意到盗窃行为。事件报告\n给港口管理。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.21666667, -12.01666667]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 85,
+        "Month": 4,
+        "Day": 26,
+        "Time": "0330 UTC",
+        "Vessel Name": null,
+        "Ship Type": null,
+        "IMO": null,
+        "Waters": null,
+        "Longitude": 10.28333333,
+        "Latitude": -64.7,
+        "Region": "拉丁美洲",
+        "Position": "委内瑞拉",
+        "Attack Type": "偷盗",
+        "Weapon Type": "非枪支",
+        "Info": "4月26日，位于委内瑞拉10°17′N   064°42′W位置，时间0330 UTC。值班人员在驾驶台\n注意到一名未经授权的人员，值班人员随即发出警报。听到警报声后，可疑人员逃脱了。在随\n后对全船的检查过程中，发现有物品丢失，船舶人员安全。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.7, 10.28333333]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 86,
+        "Month": 4,
+        "Day": 26,
+        "Time": "0200 UTC",
+        "Vessel Name": "SELETAR SPIRIT",
+        "Ship Type": "油轮",
+        "IMO": "9484077",
+        "Waters": null,
+        "Longitude": 10.20083333,
+        "Latitude": -64.7525,
+        "Region": "拉丁美洲",
+        "Position": "委内瑞拉",
+        "Attack Type": "袭击",
+        "Weapon Type": "枪支",
+        "Info": "4月26日，位于委内瑞拉10°12′3N  064°45′9W位置，时间0200 UTC。六名海盗乘坐快艇\n接近并登上一艘锚泊的油轮。油轮上的值班人员注意到海盗并发出警报。听到警报后海盗逃\n跑。事件向海岸警卫队报告。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.7525, 10.20083333]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 87,
+        "Month": 4,
+        "Day": 28,
+        "Time": "0504 UTC",
+        "Vessel Name": "SIVIU",
+        "Ship Type": "油轮",
+        "IMO": "9541289",
+        "Waters": null,
+        "Longitude": -5.83472222,
+        "Latitude": 13.41805556,
+        "Region": "西非",
+        "Position": "刚果",
+        "Attack Type": "袭击",
+        "Weapon Type": "非枪支",
+        "Info": "4月28日，位于刚果05°50′5S   013°25′5E位置，时间0504 UTC。两名持有长刀的海盗登\n上一艘停泊的油轮。值班员发现了海盗并发出警报。警报发出后全体船员集合。听到警报后，\n海盗逃跑了。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.41805556, -5.83472222]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 88,
+        "Month": 5,
+        "Day": 2,
+        "Time": "0730UTC",
+        "Vessel Name": "Aqua Lobo",
+        "Ship Type": "游艇",
+        "IMO": null,
+        "Waters": null,
+        "Longitude": 9.27777778,
+        "Latitude": -78.12916667,
+        "Region": "拉丁美洲",
+        "Position": "巴拿马",
+        "Attack Type": "袭击",
+        "Weapon Type": "枪支",
+        "Info": "5月02日，位于巴拿马09°16′40N  078°07′45W位置，时间0730 UTC。海盗袭击了一艘停泊的游艇，开枪打死一人，另一人受伤。事发时，死者一家正在熟睡中，死者听到船棚顶上传出声响，他出去查看时被枪杀。他的妻子德琳也在事故中被弯刀砍伤，但她成功逼退海盗，并把自己和孩子锁在船舱内，立即致电新西兰的好友求救。据报道，德琳和孩子们等了超过一小时才获救，她和受了轻伤的女儿事后被送到当地医院接受治疗。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-78.12916667, 9.27777778]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 89,
+        "Month": 5,
+        "Day": 3,
+        "Time": "0010UTC",
+        "Vessel Name": "MARLIN AMBER",
+        "Ship Type": "油轮",
+        "IMO": "9697210",
+        "Waters": null,
+        "Longitude": 6.26861111,
+        "Latitude": 3.21972222,
+        "Region": "西非",
+        "Position": "尼日利亚",
+        "Attack Type": "侵扰",
+        "Weapon Type": "非枪支",
+        "Info": "5月03日，位于尼日利亚拉各斯06°16′07N  003°13′11E位置，时间0010 UTC。一艘停泊的油轮上的值班人员注意到货舱附近有两名携带软管的可疑人员。警报发出，看到警觉的船员，可疑人员逃跑了。事后，一艘巡逻艇到达该区域进行搜查。船员和船只是安全的。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.21972222, 6.26861111]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 90,
+        "Month": 5,
+        "Day": 3,
+        "Time": "2010UTC",
+        "Vessel Name": "AREQUIPA QUEEN",
+        "Ship Type": "散货船",
+        "IMO": "9758765",
+        "Waters": null,
+        "Longitude": 0.13333333,
+        "Latitude": -81.31916667,
+        "Region": "拉丁美洲",
+        "Position": "厄瓜多尔",
+        "Attack Type": "侵扰",
+        "Weapon Type": "非枪支",
+        "Info": "5月03日，位于厄瓜多尔00°08′0S   081°19′9W位置，时间2010 UTC。两艘各载有5个人的快艇接近一艘正在行进中的散货船。船上的值班人员发现了可疑船只并立即发出警报，船员集合。散货船增加速度开始规避机动并开启消防水枪喷射快艇。海盗随后停止前进，放弃了袭击。据报告，船员和船只是安全的。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.31916667, 0.13333333]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 91,
+        "Month": 5,
+        "Day": 3,
+        "Time": "2000UTC",
+        "Vessel Name": null,
+        "Ship Type": "油轮",
+        "IMO": null,
+        "Waters": null,
+        "Longitude": 2.97361111,
+        "Latitude": 5.27,
+        "Region": "西非",
+        "Position": "尼日利亚",
+        "Attack Type": "袭击",
+        "Weapon Type": "枪支",
+        "Info": "5月03日，位于尼日利亚02°58′25N  005°16′12E位置，时间2000 UTC。一伙武装海盗乘坐快艇追赶一艘正在行进的油轮并开火。遭遇袭击后，油轮发出求救信号并提升速度规避袭击。同时，船舶船员在安全舱集合，由于该轮采取了规避措施，海盗无法登上船舶。随后海盗放弃袭击，船只和船员是安全的。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.27, 2.97361111]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 92,
+        "Month": 5,
+        "Day": 3,
+        "Time": "1200UTC",
+        "Vessel Name": null,
+        "Ship Type": "拖船",
+        "IMO": null,
+        "Waters": null,
+        "Longitude": 3.06666667,
+        "Latitude": 7.98333333,
+        "Region": "西非",
+        "Position": "几内亚湾",
+        "Attack Type": "劫持",
+        "Weapon Type": "枪支",
+        "Info": "5月05日，位于几内亚湾03°04N  007°59E位置，时间1200UTC。武装海盗劫持了一艘拖船并将船员扣为人质。海盗随后使用拖船袭击了另外一艘船。事件向当局报告，当地海军作出回应，事后两艘船均被解救。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.98333333, 3.06666667]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 93,
+        "Month": 5,
+        "Day": 5,
+        "Time": "1216UTC",
+        "Vessel Name": "BLUE MARLIN",
+        "Ship Type": "半潜船",
+        "IMO": null,
+        "Waters": null,
+        "Longitude": 3.0,
+        "Latitude": 7.83333333,
+        "Region": "西非",
+        "Position": "几内亚湾",
+        "Attack Type": "劫持",
+        "Weapon Type": "枪支",
+        "Info": "5月05日，位于几内亚湾03°00N  007°50E位置，时间1216 UTC。半潜船BLUE MARLIN（蓝马林鱼）在几内亚湾遭遇海盗袭击。据悉，该船于5月5日早晨离开卢巴港口准备前往马耳他瓦莱塔。在大约12:16时左右遭遇武装海盗袭击，袭击位置位于卢巴港西南部03°00N  007°50E。袭击时，7名武装海盗靠近并登上这艘半潜船。袭击发生后，船舶激活了SSAS，船上的20名船员紧急撤回到安全舱。海盗登轮后通过公共广播系统向船员喊话要求船员出来投降，随后海盗找到了一个安全舱的洞口并向安全舱内开枪扫射，幸运的是并未造成人员伤亡。西班牙海军行动监视中心(COVAM)接到遇险信号后，命令部署在几内亚湾执行国际海军安全任务的西班牙海军SERVIOLA P-71巡逻船前往解救被劫持船只。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.83333333, 3.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 94,
+        "Month": 5,
+        "Day": 9,
+        "Time": null,
+        "Vessel Name": "ARIONAS",
+        "Ship Type": "油轮",
+        "IMO": "9315757",
+        "Waters": null,
+        "Longitude": 22.78888889,
+        "Latitude": 70.05555556,
+        "Region": "东非",
+        "Position": "印度",
+        "Attack Type": "侵扰",
+        "Weapon Type": "非枪支",
+        "Info": "在停泊期间，7名手无寸铁的肇事者从一艘红色船只上登上油轮。\n他们从船头向船右舷中部靠近。\n他们从船中部右舷管汇偷了两个10英寸x12英寸的货物减速器。\n船长拉响了警报，吹响了汽笛，召集船员，并向船舶代理人、水警、印度海岸警卫队(ICG)和坎德拉港务局报告了这一事件。\n机组人员没有受伤。\n机组人员没有受伤。\n两件货物减速器(10“x12”)被盗。\n船长拉响了警报，吹起了船上的汽笛，召集船员，向船舶代理人、水警、ICG和坎德拉港务局报告了这一事件。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [70.05555556, 22.78888889]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 95,
+        "Month": 5,
+        "Day": 10,
+        "Time": "0100UTC",
+        "Vessel Name": "ZHE HAI 169",
+        "Ship Type": "散货船",
+        "IMO": "9622784中国",
+        "Waters": null,
+        "Longitude": 7.66666667,
+        "Latitude": 128.48333333,
+        "Region": "东南亚",
+        "Position": "菲律宾",
+        "Attack Type": "侵扰",
+        "Weapon Type": "非枪支",
+        "Info": "5月10日，位于菲律宾07°40N 128°29E位置，时间0100 UTC。中国船舶浙海169轮在菲律宾海域遭遇海盗艇追击。据悉，事发时一艘渔船在距离该轮2海里处放下5艘快艇，随后5艘快艇高速接近该轮。接近过程中，两艘直接冲向船首，另外三艘分别向船舯、船尾靠近，形成包围之势。遭遇袭击后，船舶迅速启动应急预案，船舶发出警告，船员利用高压水枪喷射压制企图接近的小艇阻止海盗登轮。在该起事件中并未发现海盗拥有枪支，在僵持30分钟后，小艇调头离开。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [128.48333333, 7.66666667]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 96,
+        "Month": 5,
+        "Day": 11,
+        "Time": "1148UTC",
+        "Vessel Name": "PRINCESS PAULA",
+        "Ship Type": "油轮",
+        "IMO": "9300207",
+        "Waters": null,
+        "Longitude": 1.20166667,
+        "Latitude": 103.5675,
+        "Region": "东南亚",
+        "Position": "新加坡",
+        "Attack Type": "侵扰",
+        "Weapon Type": "非枪支",
+        "Info": "5月11日，位于新加坡海峡01°12′6N  103°34′3E位置，时间1148 UTC。六名海盗乘坐两艘快艇接近一艘正在行进中的油轮。油轮上的值班人员注意到企图登轮的海盗并发出警报，随后船舶提速并进行了规避操作。两艘快艇上的海盗由于无法登上船舶，随后放弃攻击并逃跑了。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.5675, 1.20166667]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 97,
+        "Month": 5,
+        "Day": 12,
+        "Time": "0100UTC",
+        "Vessel Name": "G DONA I",
+        "Ship Type": "化学品船",
+        "IMO": "8619285",
+        "Waters": null,
+        "Longitude": 6.0,
+        "Latitude": 1.26666667,
+        "Region": "西非",
+        "Position": "多哥",
+        "Attack Type": "劫持",
+        "Weapon Type": "枪支",
+        "Info": "5月12日，位于西非多哥06°00N  001°16E位置，时间0100 UTC。一艘油轮被袭击。八名武装海盗乘坐小艇靠近并登上该船。海盗劫持了油轮并挟持了人质，庆幸的是，油轮在遭遇袭击后向多哥海军发出了求救信号。接到求救信息的多哥海军迅速回应并派出军舰赶往事发海域，在距离锚地25海里处成功拦截了油轮并解救下人质，同时抓获8名海盗（6名尼日利亚人和2名多哥人）。据报告，船上的船员并未受到伤害，被抓获的武装海盗被移交给当局。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1.26666667, 6.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 98,
+        "Month": 5,
+        "Day": 12,
+        "Time": "1810UTC",
+        "Vessel Name": "DA YANG BAI LI",
+        "Ship Type": "杂货船",
+        "IMO": "9607978",
+        "Waters": null,
+        "Longitude": 1.0,
+        "Latitude": 104.9,
+        "Region": "东南亚",
+        "Position": "印度尼西亚",
+        "Attack Type": "劫持",
+        "Weapon Type": "非枪支",
+        "Info": "5月12日，位于印度尼西亚01°00N  104°54E位置，时间1810 UTC。四名海盗持刀登上一艘正在行进的散货船。海盗劫持了水手并进入舱室，随后海盗将水手及船长捆绑起来并抢走了他们的现金及贵重物品，然后逃跑了。事件向当局报告。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [104.9, 1.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 99,
+        "Month": 5,
+        "Day": 14,
+        "Time": "0142UTC",
+        "Vessel Name": "HANZE GENDT",
+        "Ship Type": "散货船",
+        "IMO": "9605176",
+        "Waters": null,
+        "Longitude": 9.40944444,
+        "Latitude": 13.69055556,
+        "Region": "西非",
+        "Position": "几内亚",
+        "Attack Type": "劫持",
+        "Weapon Type": "非枪支",
+        "Info": "5月14日，位于几内亚09°23′94N  013°41′26W位置，时间0142 UTC。四名持有自动步枪和刀具的海盗登上了一艘锚定的散货船。海盗将船员扣为人质，随后抢劫了船员的现金及财产。在这期间，船长受伤。事件发生后，科纳克里港口派出一艘巡逻艇前来调查。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.69055556, 9.40944444]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 100,
+        "Month": 5,
+        "Day": 15,
+        "Time": "0700UTC",
+        "Vessel Name": null,
+        "Ship Type": "油轮",
+        "IMO": null,
+        "Waters": null,
+        "Longitude": null,
+        "Latitude": null,
+        "Region": "拉丁美洲",
+        "Position": "海地",
+        "Attack Type": "侵扰",
+        "Weapon Type": "非枪支",
+        "Info": "5月15日，位于海地太子港位置，时间0700 UTC。两名武装海盗利用带绳的钩子登上了一艘停泊的油轮。值班人员注意到海盗并发出警报，听到警报后海盗逃跑。事故向港口当局报告。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 101,
+        "Month": 5,
+        "Day": 18,
+        "Time": "0555UTC",
+        "Vessel Name": "METHANE MICKIE HARPER",
+        "Ship Type": "液化船",
+        "IMO": "9520376",
+        "Waters": null,
+        "Longitude": 11.98555556,
+        "Latitude": -77208333333.0,
+        "Region": "拉丁美洲",
+        "Position": "秘鲁",
+        "Attack Type": "侵扰",
+        "Weapon Type": "非枪支",
+        "Info": "5月18日，位于秘鲁11°59'8 S  77°11'9 W位置，时间05:55UTC。四到五名戴着面罩的劫匪在秘鲁卡亚俄锚地通过锚链孔登上一艘停泊的油轮。他们劫持了巡逻的值班人员。船舶警报发出，船员集合。听到警报后，海盗抢走值班人员的对讲机，然后逃跑了。事件被报告给港口当局。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77208333333.0, 11.98555556]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 102,
+        "Month": 5,
+        "Day": 18,
+        "Time": "0800UTC",
+        "Vessel Name": "BARLIAN T1201",
+        "Ship Type": "拖船",
+        "IMO": "9433432",
+        "Waters": null,
+        "Longitude": 1.21666667,
+        "Latitude": 103.58055556,
+        "Region": "东南亚",
+        "Position": "马来西亚",
+        "Attack Type": "抢劫",
+        "Weapon Type": "枪支",
+        "Info": "5月18日，位于马来西亚01°13′00N   103°34′50E位置，时间0800 UTC。一伙海盗乘坐五艘木船接近并登上一艘正在航行中的拖船。海盗在抢走船上的财物后逃跑，事件被报告给马来西亚当局。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.58055556, 1.21666667]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 103,
+        "Month": 5,
+        "Day": 19,
+        "Time": null,
+        "Vessel Name": "Modalwan II",
+        "Ship Type": "拖轮",
+        "IMO": "5647360",
+        "Waters": null,
+        "Longitude": null,
+        "Latitude": null,
+        "Region": "东南亚",
+        "Position": "印度尼西亚",
+        "Attack Type": "偷盗",
+        "Weapon Type": "非枪支",
+        "Info": "当拖轮拖驳驶往马来西亚巴生港时，四艘舢板上的肇事者靠近并登上拖轮。\n行凶者在逃跑前从驳船上偷了一些废金属和一些小物品。\n机组人员没有受伤。\n机组人员没有受伤。\n船上的废金属和一些小物品被偷了。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 104,
+        "Month": 5,
+        "Day": 22,
+        "Time": "1400UTC",
+        "Vessel Name": "El Toro",
+        "Ship Type": "游艇",
+        "IMO": null,
+        "Waters": null,
+        "Longitude": 0.89777778,
+        "Latitude": 131.24333333000001,
+        "Region": "东南亚",
+        "Position": "印度尼西亚",
+        "Attack Type": "侵扰",
+        "Weapon Type": "非枪支",
+        "Info": "5月22日，位于印度尼西亚00°53′52S  131°14′36E位置，时间1400 UTC。一艘渔船靠近一艘锚泊的游艇，渔船上的人试图偷走游艇上的小艇。游艇的船长注意到试图偷窃的人并对他大喊，听到警告后，试图偷窃的人放开小艇并迅速逃跑。事件中没有人员伤亡，事件向地方当局报告。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [131.243333330000013, 0.89777778]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 105,
+        "Month": 5,
+        "Day": 23,
+        "Time": "1130UTC",
+        "Vessel Name": "ODYSSEAS L",
+        "Ship Type": "散货船",
+        "IMO": "9597381",
+        "Waters": null,
+        "Longitude": -3.71666667,
+        "Latitude": 114.43416667,
+        "Region": "东南亚",
+        "Position": "印度尼西亚",
+        "Attack Type": "抢劫",
+        "Weapon Type": "非枪支",
+        "Info": "5月23日，位于印度尼西亚03°43′0S  114°26′3E位置，时间1130UTC。七名持刀的人登上一艘锚泊的散货船，值班人员注意到他们并发出警报，全船人员集合。七名海盗用刀威胁船员，在盗取船舶的一些财物后，海盗逃跑了。事件报告给塔博诺港口方面。一艘巡逻艇被派去调查。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.43416667, -3.71666667]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 106,
+        "Month": 5,
+        "Day": 26,
+        "Time": "2000UTC",
+        "Vessel Name": "D&K YUSUF I. AL-GHANIM",
+        "Ship Type": "成品油轮",
+        "IMO": "9399624",
+        "Waters": null,
+        "Longitude": -14.54888889,
+        "Latitude": 40.65444444,
+        "Region": "东非",
+        "Position": "莫桑比克",
+        "Attack Type": "偷盗",
+        "Weapon Type": "非枪支",
+        "Info": "5月26日，位于莫桑比克14°32′56S  040°39′16E位置，时间2000 UTC。值班人员在例行巡逻中发现舱门被损坏。警报发出，船员对全船进行了搜索，船舶上的物品被盗，在甲板上发现了可疑足迹。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [40.65444444, -14.54888889]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 107,
+        "Month": 5,
+        "Day": 28,
+        "Time": "1852UTC",
+        "Vessel Name": "CSK ENTERPRISE",
+        "Ship Type": "散货船",
+        "IMO": "9816555",
+        "Waters": null,
+        "Longitude": -5.98555556,
+        "Latitude": 105.95222222,
+        "Region": "东南亚",
+        "Position": "印度尼西亚",
+        "Attack Type": "偷盗",
+        "Weapon Type": "非枪支",
+        "Info": "5月28日，位于印度尼西亚05°59′8S 105°57′8E位置，时间1852 UTC。一艘锚泊散货船上的值班人员在甲板上发现两名海盗。值班人员迅速发出警报，船员集合。听到警报声后，两名海盗逃跑。全船检查后，发现发动机备件丢失。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [105.95222222, -5.98555556]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 108,
+        "Month": 5,
+        "Day": 30,
+        "Time": "1530UTC",
+        "Vessel Name": "ASIA JAYA 28",
+        "Ship Type": "拖轮",
+        "IMO": "9517501",
+        "Waters": null,
+        "Longitude": 1.22361111,
+        "Latitude": 103.55416667,
+        "Region": "东南亚",
+        "Position": "马来西亚",
+        "Attack Type": "抢劫",
+        "Weapon Type": "枪支",
+        "Info": "5月30日，位于马来西亚1°13'25 N 103°32'75 E位置，时间1530UTC。一艘拖轮在从马来西亚斗湖前往马来西亚槟城的时候，遭遇海盗袭击。据悉海盗利用快艇靠近并登上这艘拖轮，在抢走了船舶上的物品后逃跑。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.55416667, 1.22361111]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 109,
+        "Month": 5,
+        "Day": 31,
+        "Time": "0525UTC",
+        "Vessel Name": "CS SONOMA",
+        "Ship Type": "散货船",
+        "IMO": "9569944",
+        "Waters": null,
+        "Longitude": 0.0575,
+        "Latitude": -50.9925,
+        "Region": "拉丁美洲",
+        "Position": "巴西",
+        "Attack Type": "偷盗",
+        "Weapon Type": "非枪支",
+        "Info": "5月31日，位于巴西马卡帕00°03′27N  050°58′93W位置，，时间0525 UTC。六名持刀海盗通过锚链登上一艘锚泊的散货船。值班水手发现了这些人并发出警报。警报发出后，全体船员集合，在随后的搜查过程中发现油漆储藏室的门锁被破坏，部分物品被盗。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-50.9925, 0.0575]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 110,
+        "Month": 5,
+        "Day": 31,
+        "Time": "1530UTC",
+        "Vessel Name": "SAFESEA NEHA II",
+        "Ship Type": "散货船",
+        "IMO": "9347918",
+        "Waters": null,
+        "Longitude": 1.60638889,
+        "Latitude": 104.48694444,
+        "Region": "拉丁美洲",
+        "Position": "马来西亚",
+        "Attack Type": "劫持",
+        "Weapon Type": "非枪支",
+        "Info": "5月31日，位于马来西亚01°35′83N  104°28′73E位置，时间1530 UTC。一艘锚泊的散货船上的值班人员注意到艏楼位置有可疑人员，当值班人员前往查看时，可疑人员持刀威胁值班员。随后可疑人员与船下等待的同伙一同逃跑。事件报告给港口当局，海岸警卫队登船调查。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [104.48694444, 1.60638889]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 111,
+        "Month": 6,
+        "Day": 10,
+        "Time": "0600LT",
+        "Vessel Name": null,
+        "Ship Type": "商船",
+        "IMO": null,
+        "Waters": null,
+        "Longitude": 12.55166667,
+        "Latitude": 43.41694444,
+        "Region": "东非",
+        "Position": "曼德海峡",
+        "Attack Type": "侵扰",
+        "Weapon Type": "非枪支",
+        "Info": "6月10日，位于曼德海峡12°33′6N  043°25′1E位置，时间0600LT。两艘海盗快艇追击正在航行中的商船，随船的华信中安武装保安通过望远镜观察到小艇上有登船长梯、长沟等器材。随船武装保安迅速进入警戒状态。船长下令开枪示警。鸣枪示警后，小艇仍旧继续靠近，直逼船舷，气氛十分紧张。眼看小船即将贴上船舷，船长向安保队长下令：开枪阻击射击。随船安保队长向船长复述口令：开枪阻击。随即向另外两名队员下达射击指令。两艘小艇在受到武装保安阻击后，迅速改变方向，放弃袭击并远离该轮。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [43.41694444, 12.55166667]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 112,
+        "Month": 6,
+        "Day": 18,
+        "Time": null,
+        "Vessel Name": "Budget 19",
+        "Ship Type": "拖轮",
+        "IMO": "5647360",
+        "Waters": null,
+        "Longitude": null,
+        "Latitude": null,
+        "Region": null,
+        "Position": null,
+        "Attack Type": null,
+        "Weapon Type": null,
+        "Info": "在航行过程中，8名罪犯从9艘舢板上登船。\n他们偷了废金属逃跑了。\n机组人员没有受伤。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 113,
+        "Month": 6,
+        "Day": 18,
+        "Time": "0245LT",
+        "Vessel Name": null,
+        "Ship Type": "渔船",
+        "IMO": "马来西亚",
+        "Waters": null,
+        "Longitude": 5.10527778,
+        "Latitude": 119.21194444,
+        "Region": "东南亚",
+        "Position": "菲律宾",
+        "Attack Type": "绑架",
+        "Weapon Type": "枪支",
+        "Info": "6月18日，位于菲律宾5°6'19 N  119°12'43 E位置，时间0245LT。两艘马来西亚旗渔船在菲律宾沙巴州仙本那（Semporna）附近海域遭遇海盗袭击，有船员被绑架。当时这两艘渔船正在Lahad Datu的Tambisan水域朝Semporna驶去，航行过程中突然遭受海盗袭击，海盗乘坐快艇并持有武器。据悉，海盗绑架了两艘船上共计10名船员（第一艘船上绑架4名船员和第二艘船上绑架6名船员）。此次袭击事件中的海盗被怀疑为阿布沙耶夫集团（ASG）成员。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [119.21194444, 5.10527778]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 114,
+        "Month": 6,
+        "Day": 30,
+        "Time": "0930UTC",
+        "Vessel Name": null,
+        "Ship Type": "散货船",
+        "IMO": null,
+        "Waters": null,
+        "Longitude": -6.09861111,
+        "Latitude": 106.88388889,
+        "Region": "东南亚",
+        "Position": "印度尼西亚",
+        "Attack Type": "偷盗",
+        "Weapon Type": "非枪支",
+        "Info": "6月30日，位于印度尼西亚6°5’55S 106°53’2E位置，时间0930 UTC。未被注意到的海盗登上了一艘停泊的散货船。该轮上的值班人员在例行巡逻的过程中发现船舶储藏室的门锁被损坏，随后值班员发出警报并结合船员进行搜索。经过搜查并未发现海盗人员，但船舶物品被盗。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.88388889, -6.09861111]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 115,
+        "Month": 7,
+        "Day": 1,
+        "Time": "0840UTC",
+        "Vessel Name": null,
+        "Ship Type": "散货船",
+        "IMO": null,
+        "Waters": null,
+        "Longitude": 43.23333333,
+        "Latitude": -12.85,
+        "Region": "东非",
+        "Position": "曼德海峡",
+        "Attack Type": "侵扰",
+        "Weapon Type": "非枪支",
+        "Info": "7月01日，位于曼德海峡12°51′00N，043°14′00E位置，时间0840UTC。三艘载有海盗的快艇企图接近一艘正在行进的散货船，快艇上最多的有5个人。三艘海盗艇距离该轮最近时只有0.1NM，由于该轮采取了规避措施，海盗无法登上该轮。随后海盗放弃了袭击，船舶和船员是安全的。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-12.85, 43.23333333]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 116,
+        "Month": 7,
+        "Day": 11,
+        "Time": null,
+        "Vessel Name": "Modalwan No.11",
+        "Ship Type": "拖轮",
+        "IMO": null,
+        "Waters": null,
+        "Longitude": 1.216666667,
+        "Latitude": 103.5166667,
+        "Region": "东南亚",
+        "Position": "印度尼西亚",
+        "Attack Type": "偷盗",
+        "Weapon Type": "非枪支",
+        "Info": "六艘小木船驶近一艘拖船。\n未经许可的人登上该驳船，偷走船上的废金属，然后逃走。\n船长联系了当地政府，后者派出了一艘巡逻艇进行调查。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.5166667, 1.216666667]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 117,
+        "Month": 7,
+        "Day": 13,
+        "Time": "2250UTC",
+        "Vessel Name": null,
+        "Ship Type": "杂货船",
+        "IMO": null,
+        "Waters": null,
+        "Longitude": 2.96666667,
+        "Latitude": 4.66666667,
+        "Region": "西非",
+        "Position": "几内亚湾",
+        "Attack Type": "绑架",
+        "Weapon Type": "枪支",
+        "Info": "7月13日，位于西非几内亚湾2°58′N  4°40′E位置，时间2250 UTC。一艘散货船在从喀麦隆的杜阿拉驶往科特迪瓦的阿比让途中遭遇武装海盗袭击，海盗靠近并登上这艘散货船。登轮后，海盗在逃跑前带走了10船员做为人质。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.66666667, 2.96666667]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 118,
+        "Month": 7,
+        "Day": 15,
+        "Time": "0430LT",
+        "Vessel Name": null,
+        "Ship Type": "拖船",
+        "IMO": "马来西亚",
+        "Waters": null,
+        "Longitude": 10.38333333,
+        "Latitude": 103.6525,
+        "Region": "东南亚",
+        "Position": "马来西亚",
+        "Attack Type": "抢劫",
+        "Weapon Type": "枪支",
+        "Info": "7月15日，位于马来西亚10°23N  103°39′09E位置，时间0430 LT。一艘马来西亚籍拖船在距离印度尼西亚北尼帕灯塔约0.6海里处遭遇海盗袭击。海盗登轮后，抢走了船上运输的一些物品但并 没有和船员发生对抗。事件报告给海岸警卫队。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.6525, 10.38333333]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 119,
+        "Month": 7,
+        "Day": 16,
+        "Time": null,
+        "Vessel Name": "SUNG FATT 31",
+        "Ship Type": "拖轮",
+        "IMO": "8984446",
+        "Waters": null,
+        "Longitude": null,
+        "Latitude": null,
+        "Region": "东南亚",
+        "Position": "马来西亚",
+        "Attack Type": "抢劫",
+        "Weapon Type": "枪支",
+        "Info": "拖船和驳船载着废金属驶向马来西亚槟城。\n在新加坡海峡TSS西行航线上，拖轮船长Sung Fatt 31向新加坡船舶交通信息系统(VTIS)报告说，他的船员发现一些罪犯登上了这艘驳船。Sung Fatt 36来自数量不详的舢板。\n\n行凶者偷了一些废金属，通过舢板逃走了。\n行凶者和船员之间没有冲突。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 120,
+        "Month": 7,
+        "Day": 21,
+        "Time": null,
+        "Vessel Name": "POMERENIA SKY",
+        "Ship Type": "集装箱船",
+        "IMO": "9339583",
+        "Waters": null,
+        "Longitude": 8.466666667,
+        "Latitude": 13.46944444,
+        "Region": "西非",
+        "Position": "几内亚",
+        "Attack Type": "抢劫",
+        "Weapon Type": "非枪支",
+        "Info": "五名劫匪乘坐一艘小木船，手持刀具，用一根系有钩子的绳子靠近一艘抛锚的船，登上了船。\n劫匪劫持了值班船员作为人质，偷走了他的个人物品和船上的财物。\n机警的船员注意到了强盗，并发出了警报。\n所有的门都锁上了，船员们集合起来。\n听到警报，看到船员的警觉，强盗逃跑了。\n端口控制的信息。\n在事故中，值班人员受了伤。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.46944444, 8.466666667]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 121,
+        "Month": 7,
+        "Day": 21,
+        "Time": null,
+        "Vessel Name": "CK BLUEBELL",
+        "Ship Type": "散货船",
+        "IMO": "9595876",
+        "Waters": null,
+        "Longitude": 2.988888889,
+        "Latitude": 105.1888889,
+        "Region": "东南亚",
+        "Position": "马来西亚",
+        "Attack Type": "抢劫",
+        "Weapon Type": "非枪支",
+        "Info": "七名海盗带着手枪和刀子乘坐一艘小快艇登上了正在航行的船只，船上的梯子上挂着一个钩子。\n船长和二副被海盗扣为人质，绑起来并袭击了他们。\n海盗在逃跑前偷走了现金和船员的个人物品。\n",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [105.1888889, 2.988888889]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 122,
+        "Month": 7,
+        "Day": 22,
+        "Time": "2300UTC",
+        "Vessel Name": "CREST ONYX",
+        "Ship Type": "拖船",
+        "IMO": "9655717",
+        "Waters": null,
+        "Longitude": 1.07083333,
+        "Latitude": 103.90555556,
+        "Region": "东南亚",
+        "Position": "印度尼西亚",
+        "Attack Type": "偷盗",
+        "Weapon Type": "非枪支",
+        "Info": "7月22日，位于印度尼西亚01°04′15N  103°54′20E位置，时间2300 UTC。一伙海盗登上一艘停泊的拖船。拖船上的值班人员在例行巡逻中发现甲板上有脚印，进一步调查发现船舶储藏室门锁被损坏，船舶物品被盗。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.90555556, 1.07083333]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 123,
+        "Month": 7,
+        "Day": 22,
+        "Time": null,
+        "Vessel Name": "CK BLUEBELL",
+        "Ship Type": "散货船",
+        "IMO": "韩国",
+        "Waters": null,
+        "Longitude": null,
+        "Latitude": null,
+        "Region": "东南亚",
+        "Position": "马六甲",
+        "Attack Type": "抢劫",
+        "Weapon Type": "枪支",
+        "Info": "7月22日，一艘韩国籍船舶在马六甲海域航行时遭遇海盗袭击。遇袭的是一艘名为“CK BLUEBELL”的散货船，该船当时正从Riau Archipelago附近进入南海。据悉，七名持有自动武器的海盗乘坐快艇接近并登上了这艘韩国散货船。海盗登轮后对船员进行了殴打并抢走了约1.33万美金以及手机、衣服等其他财物，海盗在登轮后约30分钟左右逃跑。目前，所幸暂无船员伤亡。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 124,
+        "Month": 7,
+        "Day": 25,
+        "Time": "0442UTC",
+        "Vessel Name": "SPRING RAINBOW",
+        "Ship Type": "散货船",
+        "IMO": "9666041",
+        "Waters": null,
+        "Longitude": 6.43777778,
+        "Latitude": 3.34777778,
+        "Region": "西非",
+        "Position": "尼日利亚",
+        "Attack Type": "抢劫",
+        "Weapon Type": "非枪支",
+        "Info": "7月25日，位于尼日利亚06°25′76N  003°20′52E位置，时间0442 UTC。十名海盗登上了一艘停泊的散货船，他们劫持并殴打了正在例行巡逻的水手。海盗在抢走船上油漆间的一些物品后，释放了被劫持的水手并逃跑了。据悉，该水手在事件中受轻伤。事件向港口当局报告。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.34777778, 6.43777778]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 125,
+        "Month": 7,
+        "Day": 25,
+        "Time": null,
+        "Vessel Name": "VIRGO 29",
+        "Ship Type": "拖轮",
+        "IMO": "9576612",
+        "Waters": null,
+        "Longitude": 1.2305556,
+        "Latitude": 103.534167,
+        "Region": "东南亚",
+        "Position": "印度尼西亚",
+        "Attack Type": "偷盗",
+        "Weapon Type": "非枪支",
+        "Info": "在航行过程中，数量不详的肇事者登上了载有废金属的“胜利9号”驳船。\n新加坡船舶交通信息系统(VTIS)通过VHF联系了拖船Virgo 29的船长，告诉他一些舢舨正在接近拖船。\n\n主人发出了警报，肇事者逃走了。\n驳船上没有东西被偷。\n这艘船驶往马来西亚槟城的下一个停靠港。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.534167, 1.2305556]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 126,
+        "Month": 7,
+        "Day": 25,
+        "Time": "1240UTC",
+        "Vessel Name": null,
+        "Ship Type": "散货船",
+        "IMO": null,
+        "Waters": null,
+        "Longitude": 10.73333333,
+        "Latitude": 106.73333333,
+        "Region": "东南亚",
+        "Position": "越南",
+        "Attack Type": "偷盗",
+        "Weapon Type": "非枪支",
+        "Info": "7月25日，位于越南10°44N  106°44E位置，时间1240 UTC。一艘停泊的散货船上，例行值班的水手发现有可疑人员正在将船上的物品向船下停泊的一艘小船上扔去。可疑人员在看到值班水手后逃跑。事后检查，船舶物品被盗。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.73333333, 10.73333333]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 127,
+        "Month": 7,
+        "Day": 26,
+        "Time": "2130UTC",
+        "Vessel Name": "NEW CENTURY",
+        "Ship Type": "油轮",
+        "IMO": "9298272",
+        "Waters": null,
+        "Longitude": -4.06833333,
+        "Latitude": 39.65222222,
+        "Region": "东非",
+        "Position": "肯尼亚",
+        "Attack Type": "偷盗",
+        "Weapon Type": "非枪支",
+        "Info": "7月26日，位于肯尼亚04°04′6S  039°39′8E位置，时间2130 UTC。一艘停泊的油轮上，例行值班人员发现一名海盗正在攀爬一根系泊绳。随即值班人员发出警报并集合船员，听到警报声后海盗逃跑。事后调查，船上有缆绳被盗。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [39.65222222, -4.06833333]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 128,
+        "Month": 7,
+        "Day": 26,
+        "Time": "0330UTC",
+        "Vessel Name": "TORM THOR",
+        "Ship Type": "化学品船",
+        "IMO": "9712292",
+        "Waters": null,
+        "Longitude": 6.30166667,
+        "Latitude": 3.39305556,
+        "Region": "西非",
+        "Position": "尼日利亚",
+        "Attack Type": "偷盗",
+        "Weapon Type": "非枪支",
+        "Info": "7月26日，位于尼日利亚06°18′06N   003°23′35E位置，时间0330 UTC。一艘停泊的油轮上，例行巡逻的值班人员闻到浓烈的货物气味。这名值班人员在前往调查的时候，发现一名海盗正在试图偷窃船上的货物，海盗在看见值班人员后跳船逃跑了。事件报告给港口当局。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.39305556, 6.30166667]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 129,
+        "Month": 7,
+        "Day": 27,
+        "Time": "1955UTC",
+        "Vessel Name": null,
+        "Ship Type": "油轮",
+        "IMO": null,
+        "Waters": null,
+        "Longitude": 1.75138889,
+        "Latitude": 101.36666667,
+        "Region": "东南亚",
+        "Position": "印度尼西亚",
+        "Attack Type": "偷盗",
+        "Weapon Type": "非枪支",
+        "Info": "7月27日，位于印度尼西亚01°45′5N   101°22′0E位置，时间1955 UTC。四名海盗登上一艘停泊的油轮。油轮上例行巡逻的值班人员在机舱附近发现了这些海盗，随后值班人员发出警报并集合船员。海盗在看到值班人员后逃跑。据调查，船上有备件被盗。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.36666667, 1.75138889]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 130,
+        "Month": 7,
+        "Day": 29,
+        "Time": "0330UTC",
+        "Vessel Name": null,
+        "Ship Type": "散货船",
+        "IMO": null,
+        "Waters": null,
+        "Longitude": 3.93555556,
+        "Latitude": 98.80194444,
+        "Region": "西非",
+        "Position": "利比里亚",
+        "Attack Type": "抢劫",
+        "Weapon Type": "枪支",
+        "Info": "7月29日，位于利比里亚06°19′8N   010°51′4W位置，时间0330 UTC。武装海盗登上一艘锚泊的散货船，海盗在抢走船上的一些物品后逃跑了。事件报告给港口当局。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [98.80194444, 3.93555556]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 131,
+        "Month": 7,
+        "Day": 29,
+        "Time": "0310UTC",
+        "Vessel Name": null,
+        "Ship Type": "集装箱船",
+        "IMO": null,
+        "Waters": null,
+        "Longitude": 6.43194444,
+        "Latitude": 3.35416667,
+        "Region": "西非",
+        "Position": "尼日利亚",
+        "Attack Type": "抢劫",
+        "Weapon Type": "非枪支",
+        "Info": "7月29日，位于尼日利亚6°25’55N 003°21’15E位置，时间0310 UTC。三名持棍棒的海盗登上一艘停泊的集装箱船。海盗登船后袭击了一名例行巡逻的水手，海盗抢走了他的个人物品后逃跑了。事件导致水手受轻伤。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.35416667, 6.43194444]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 132,
+        "Month": 7,
+        "Day": 29,
+        "Time": null,
+        "Vessel Name": "BLISS",
+        "Ship Type": "散货船",
+        "IMO": "9370331",
+        "Waters": null,
+        "Longitude": 6.33861111,
+        "Latitude": 10.86111111,
+        "Region": null,
+        "Position": null,
+        "Attack Type": null,
+        "Weapon Type": null,
+        "Info": "值班AB注意到甲板上有一个未经授权的人，就发出了警报。\n看到收到警报的船员后，此人切断了救生圈上的自动点火灯，然后与救生圈一起跳入水中，并乘坐一艘等待着的船逃生。\n当地政府通知。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.86111111, 6.33861111]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 133,
+        "Month": 7,
+        "Day": 30,
+        "Time": "2320UTC",
+        "Vessel Name": "STRATEGIC UNITY",
+        "Ship Type": "散货船",
+        "IMO": "9648099",
+        "Waters": null,
+        "Longitude": 3.93555556,
+        "Latitude": 98.80194444,
+        "Region": "东南亚",
+        "Position": "印度尼西亚",
+        "Attack Type": "侵扰",
+        "Weapon Type": "非枪支",
+        "Info": "7月30日，位于印度尼西亚03°56′8N  098°48′7E位置，时间2320 UTC。两名海盗登上了一艘锚泊的散货船。警报提升，船员集合。听到警报声后，海盗逃跑 。事件报告给港口控制。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [98.80194444, 3.93555556]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 134,
+        "Month": 7,
+        "Day": 30,
+        "Time": "2220UTC",
+        "Vessel Name": "SICHEM RIO",
+        "Ship Type": "化学品船",
+        "IMO": "9322073",
+        "Waters": null,
+        "Longitude": -6.01694444,
+        "Latitude": 106.86888889,
+        "Region": "东南亚",
+        "Position": "印度尼西亚",
+        "Attack Type": "袭击",
+        "Weapon Type": "非枪支",
+        "Info": "7月30日，位于印度尼西亚06°01′1S  106°52′8E位置，时间2220 UTC。六名持刀海盗登上一艘化学品船。海盗登轮后袭击了一名船员，随后其他船员发现了海盗并发出警报。听到警报声后，海盗逃跑。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.86888889, -6.01694444]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 135,
+        "Month": 8,
+        "Day": 3,
+        "Time": null,
+        "Vessel Name": "TEKUN 16217",
+        "Ship Type": "拖轮",
+        "IMO": "9517862",
+        "Waters": null,
+        "Longitude": null,
+        "Latitude": null,
+        "Region": "东南亚",
+        "Position": "马来西亚",
+        "Attack Type": "抢劫",
+        "Weapon Type": "非枪支",
+        "Info": "马来西亚海事执法局(MMEA)在进行例行巡逻时发现并扣留了一艘没有登记号的小木船，以及三名涉嫌海上盗窃的船员。\n在检查这艘船时，他们发现了两吨多的废金属，据信是由Tekun 16217拖着的一艘驳船上偷来的。\n马来西亚外交部扣留了这艘木船和三名嫌疑人以作进一步调查。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 136,
+        "Month": 8,
+        "Day": 4,
+        "Time": "1200UTC",
+        "Vessel Name": "TOG MOR",
+        "Ship Type": "拖轮",
+        "IMO": "8759152",
+        "Waters": null,
+        "Longitude": 18.8,
+        "Latitude": -91.78333333,
+        "Region": "拉丁美洲",
+        "Position": "墨西哥",
+        "Attack Type": "偷盗",
+        "Weapon Type": "非枪支",
+        "Info": "8月04号，位于墨西哥18°48′N  091°47′W位置，时间1200 UTC。维修船坞上的船员报告发现船舶物品被盗，经检查在储藏室附近发现一把弯刀。事件被报告给墨西哥海军，海军派出三艘巡逻艇进行调查。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-91.78333333, 18.8]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 138,
+        "Month": 8,
+        "Day": 7,
+        "Time": "1930UTC",
+        "Vessel Name": "CELSIUS RIGA",
+        "Ship Type": "化学品油轮",
+        "IMO": "9430284",
+        "Waters": "港区",
+        "Longitude": -14.38333333,
+        "Latitude": 40.7,
+        "Region": "东非",
+        "Position": "莫桑比克",
+        "Attack Type": "侵扰",
+        "Weapon Type": "非枪支",
+        "Info": "8月07日，位于莫桑比克14°23′S  040°42′E位置，时间1930 UTC。两名海盗登上一艘锚定的化学品船，船舶上的值班人员注意到他们并发出警报。听到警报声后，两名海盗逃离船舶。事后检查，船舶没有物品被盗。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [40.7, -14.38333333]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 139,
+        "Month": 8,
+        "Day": 9,
+        "Time": "1800UTC",
+        "Vessel Name": "Crystal Auriga",
+        "Ship Type": "拖船",
+        "IMO": "印度尼西亚",
+        "Waters": "国际海域",
+        "Longitude": 1.450555556,
+        "Latitude": 104.6591667,
+        "Region": "东南亚",
+        "Position": "印度尼西亚",
+        "Attack Type": "偷盗",
+        "Weapon Type": "非枪支",
+        "Info": "8月09日，位于印度尼西亚，一伙数目不详的海盗在当地时间约1800时，在民丹岛民营东北约14海里处登上一艘印度尼西亚国旗拖船。他们从拖船上偷走了一些财物。船长于8月10日当地时间12点10分抵达新加坡Crystal Offshore Yard时发现拖船上的物品丢失。该事件被报告给新加坡港口作业控制中心和新加坡 海岸警卫队。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [104.6591667, 1.450555556]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 140,
+        "Month": 8,
+        "Day": 11,
+        "Time": "1930UTC",
+        "Vessel Name": "KOTA WARIS",
+        "Ship Type": "集装箱船",
+        "IMO": "9157404",
+        "Waters": "港区",
+        "Longitude": 10.73416667,
+        "Latitude": 106.76722222,
+        "Region": "东南亚",
+        "Position": "越南",
+        "Attack Type": "偷盗",
+        "Weapon Type": "非枪支",
+        "Info": "8月11日，位于越南10°44′3N 106°46′2E位置，时间1930 UTC。一艘停泊的集装箱上的值班水手在常规巡逻中发现两名持刀的海盗试图闯入舵机室。值班水手发出警报并集合船员，听到警报声后，海盗逃跑了。事后检查，没有物品被盗。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.76722222, 10.73416667]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 141,
+        "Month": 8,
+        "Day": 12,
+        "Time": "1352UTC",
+        "Vessel Name": "Permata 1",
+        "Ship Type": "拖轮",
+        "IMO": "3702100",
+        "Waters": "领海",
+        "Longitude": 1.235,
+        "Latitude": 103.50222222,
+        "Region": "东南亚",
+        "Position": "马来西亚",
+        "Attack Type": "袭击",
+        "Weapon Type": "枪支",
+        "Info": "8月12日，位于马来西亚1°13'66 N  103°30'8 E位置，时间1352 UTC。 一艘从沙捞越开往巴生的马来西亚旗驳船，在航行的过程中遭遇海盗袭击。海盗登上船舶后，抢走了船上的一些金属和绳索，然后海盗逃跑。事件中没有人员受伤。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.50222222, 1.235]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 142,
+        "Month": 8,
+        "Day": 14,
+        "Time": "0130UTC",
+        "Vessel Name": "PRINCE JOB 1",
+        "Ship Type": "补给船",
+        "IMO": "9738636",
+        "Waters": "港区",
+        "Longitude": 4.68055556,
+        "Latitude": 9.51666667,
+        "Region": "西非",
+        "Position": "尼日利亚",
+        "Attack Type": "偷盗",
+        "Weapon Type": "非枪支",
+        "Info": "8月14日，位于尼日利亚04°40′50N  007°09′31E位置，时间0130 UTC。一艘停泊的补给船上的值班人员从监控系统中发现一名海盗正在泵房中偷窃财产。值班人员立即通知船长，船长将强盗锁在泵房内。听到警报后，在补给船旁边等待的海盗同伙驾着快艇逃跑了。事件报告给港口当局，海盗被带上岸询问与调查。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.51666667, 4.68055556]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 143,
+        "Month": 8,
+        "Day": 14,
+        "Time": "1050UTC",
+        "Vessel Name": "JOSEPH WISDOM",
+        "Ship Type": "油轮",
+        "IMO": "9806732",
+        "Waters": "国际海域",
+        "Longitude": 4.15166667,
+        "Latitude": 8.36805556,
+        "Region": "西非",
+        "Position": "尼日利亚",
+        "Attack Type": "侵扰",
+        "Weapon Type": "非枪支",
+        "Info": "8月14日，位于尼日利亚04°09′6N  008°22′5E位置，时间1050 UTC。一艘快艇接近一艘正在行进中的油轮并向其开火。油轮受到袭击后发出警报，船员集合在船舱。由于油轮采取了规避措施，快艇最终放弃了袭击。事件没有造成人员伤亡。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.36805556, 4.15166667]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 144,
+        "Month": 8,
+        "Day": 15,
+        "Time": "0230UTC",
+        "Vessel Name": "VICTORY C",
+        "Ship Type": "散货船",
+        "IMO": "希腊",
+        "Waters": "港区",
+        "Longitude": 3.86666667,
+        "Latitude": 9.51666667,
+        "Region": "西非",
+        "Position": "尼日利亚",
+        "Attack Type": "绑架",
+        "Weapon Type": "枪支",
+        "Info": "8月15日，位于尼日利亚03°52N  009°31E位置，时间0230UTC。武装海盗袭击了一艘希腊散货船。根据信息比对，遇袭的船舶可能是一艘名为“VICTORY C”的散货船。该轮上所有船员均为亚洲籍，遭遇海盗袭击后，有9名船员被绑架。值得注意的是，此前曾有外媒称被绑架的9名船员为中国人，但根据驻喀麦隆使馆向当地有关部门核实后，否认了这一消息，证明没有中国公民被绑架。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.51666667, 3.86666667]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 145,
+        "Month": 8,
+        "Day": 15,
+        "Time": null,
+        "Vessel Name": "KIEN SAN 1",
+        "Ship Type": "拖轮",
+        "IMO": "9218600",
+        "Waters": "领海",
+        "Longitude": 1.2263889,
+        "Latitude": 104.5586111,
+        "Region": "东南亚",
+        "Position": "印度尼西亚",
+        "Attack Type": "袭击",
+        "Weapon Type": "非枪支",
+        "Info": "在航行过程中，三名罪犯从两艘小船上登上驳船，偷走了一些废金属。\n船长发出警报，并通过甚高频向新加坡船舶交通信息系统(VTIS)报告了这一事件。\n肇事者于17时10分左右带着一些废金属上岸。\n船员没有受伤;\n拖轮和驳船继续向西行驶。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [104.5586111, 1.2263889]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 146,
+        "Month": 8,
+        "Day": 15,
+        "Time": "0230UTC",
+        "Vessel Name": "MARMALAAITA",
+        "Ship Type": "杂货船",
+        "IMO": null,
+        "Waters": "港区",
+        "Longitude": 3.86666667,
+        "Latitude": 9.51666667,
+        "Region": "西非",
+        "Position": "喀麦隆",
+        "Attack Type": "袭击",
+        "Weapon Type": "枪支",
+        "Info": "8月15日，位于喀麦隆03°52′N  009°31′E位置，时间0230UTC。杂货船“MARMALAAITA”在喀麦隆海域航行时遭遇海盗袭击。海盗绑架了8名船员，其中包括3名俄罗斯籍船员。据悉，该轮是8月13日从美国经赤道几内亚抵达杜阿拉外锚地。袭击发生后，喀麦隆海军派出了一艘巡逻艇前往事发区域展开调查。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.51666667, 3.86666667]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 147,
+        "Month": 8,
+        "Day": 17,
+        "Time": "0325UTC",
+        "Vessel Name": null,
+        "Ship Type": "液化船 油轮",
+        "IMO": null,
+        "Waters": "国际海域",
+        "Longitude": 3.59,
+        "Latitude": 6.6875,
+        "Region": "西非",
+        "Position": "尼日利亚",
+        "Attack Type": "袭击",
+        "Weapon Type": "非枪支",
+        "Info": "8月17日，位于尼日利亚03°34′84N  006°40′75E位置，时间0325 UTC。武装海盗登上一艘停泊的加油船。值班人员发现海盗后，发出警报、并召集船员在安全舱中结合。尼日利亚海军接到求救信号后，派出一艘海军巡逻艇前往调查。海军人员到达现场后，登轮进行了检查，发现海盗已经逃跑。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.6875, 3.59]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 148,
+        "Month": 8,
+        "Day": 20,
+        "Time": "2040UTC",
+        "Vessel Name": "SALVICEROY",
+        "Ship Type": "拖轮",
+        "IMO": "9351830",
+        "Waters": "港区",
+        "Longitude": 1.10416667,
+        "Latitude": 103.885,
+        "Region": "东南亚",
+        "Position": "印度尼西亚",
+        "Attack Type": "袭击",
+        "Weapon Type": "非枪支",
+        "Info": "8月20日，位于印度尼西亚01°06′15N  103°53′06E位置，时间2040 UTC。五名持刀的海盗登上了一艘锚泊的拖船。拖船船员发现海盗后发出警报并报警。安全部队接到求救信息后，派出巡逻艇前往调查。事后检查，船舶甲板和机舱备件被盗，没有人员伤亡。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.885, 1.10416667]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 149,
+        "Month": 8,
+        "Day": 22,
+        "Time": "1830UTC",
+        "Vessel Name": "TOMINI DYNASTY",
+        "Ship Type": "散货船",
+        "IMO": "9721360",
+        "Waters": "港区",
+        "Longitude": 3.91111111,
+        "Latitude": 98.79027778,
+        "Region": "东南亚",
+        "Position": "印度尼西亚",
+        "Attack Type": "袭击",
+        "Weapon Type": "非枪支",
+        "Info": "8月22日，位于印度尼西亚03°54′40N  098°47′25E位置，时间1830 UTC。一艘锚泊散货船上的值班人员注意到锚链附近有一艘快艇，当值班人员正要拉响警报并告诉船舶准备起锚的时候，两名持刀武装海盗已经登上船舶。海盗登轮后用刀顶住值班员并把他捆起来。船员在听到警报后，全体集合并向海盗走去。海盗看到集合的船员，在抢过走值班人员的对讲机后从缆绳管逃跑。事件报告给港口当局。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [98.79027778, 3.91111111]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 150,
+        "Month": 8,
+        "Day": 25,
+        "Time": "2045UTC",
+        "Vessel Name": "EAGLE",
+        "Ship Type": "油轮",
+        "IMO": "9233753",
+        "Waters": "国际海域",
+        "Longitude": 1.58333333,
+        "Latitude": 104.53333333,
+        "Region": "东南亚",
+        "Position": "马来西亚",
+        "Attack Type": "侵扰",
+        "Weapon Type": "非枪支",
+        "Info": "8月25日，位于马来西亚01°35N  104°32E位置，时间2045 UTC。一艘停泊的油轮上的值班人员注意到船舶艏楼位置有武装人员出现。随后值班人员发出警报，船长带领人员撤离到生活区。听到警报后，海盗逃跑。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [104.53333333, 1.58333333]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 151,
+        "Month": 8,
+        "Day": 27,
+        "Time": "1225UTC",
+        "Vessel Name": null,
+        "Ship Type": "散货船",
+        "IMO": null,
+        "Waters": "港区",
+        "Longitude": null,
+        "Latitude": null,
+        "Region": "东南亚",
+        "Position": "马来西亚",
+        "Attack Type": "偷盗",
+        "Weapon Type": "非枪支",
+        "Info": "8月27日，位于马来西山打根港，时间1225 UTC。一艘散货船在锚泊期间，船上的值班水手发现在甲板上有两名海盗。值班人员发出警报并集合船员。听到警报声后，海盗跳下船与另外一名等待的海盗乘坐快艇逃跑。经调查，船舶上的物品被盗。事件报告给港口当局。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 152,
+        "Month": 9,
+        "Day": 8,
+        "Time": "0908UTC",
+        "Vessel Name": "BRITISH CONTRIBUTOR",
+        "Ship Type": "油轮",
+        "IMO": "9766554",
+        "Waters": "国际海域",
+        "Longitude": 1.5830556,
+        "Latitude": 104.525,
+        "Region": "东南亚",
+        "Position": "马来西亚",
+        "Attack Type": "偷盗",
+        "Weapon Type": "非枪支",
+        "Info": "9月08日，位于马来西亚01°34′6N  104°30′9E位置，时间0908 UTC。三名人员通过锚索登上了一艘锚泊的油轮。他们偷走了船上的救生筏以及储存室的物品并逃脱了。事后，船员在常规巡逻中发现了盗窃事件，通过船舶监控确定了参与盗窃的人员。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [104.525, 1.5830556]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 153,
+        "Month": 9,
+        "Day": 12,
+        "Time": null,
+        "Vessel Name": "ORIENT TIDE",
+        "Ship Type": "散货船",
+        "IMO": "9467550",
+        "Waters": "港区",
+        "Longitude": 4.05277778,
+        "Latitude": 9.6833333,
+        "Region": "西非",
+        "Position": "尼日利亚",
+        "Attack Type": "侵扰",
+        "Weapon Type": "非枪支",
+        "Info": "在货物运输过程中，劫匪悄无声息地登上了一艘停泊的散货船。\n在早上的例行巡视中，人们注意到储藏间的挂锁坏了，门的铰链损坏并弯曲了。\n经过检查，几艘船的财产和储备被报告被盗。\n港口当局通知。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.6833333, 4.05277778]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 154,
+        "Month": 9,
+        "Day": 13,
+        "Time": null,
+        "Vessel Name": "Name withheld",
+        "Ship Type": "渔船",
+        "IMO": null,
+        "Waters": "领海",
+        "Longitude": 4.17388889,
+        "Latitude": 8.9258333,
+        "Region": "西非",
+        "Position": "尼日利亚",
+        "Attack Type": "侵扰",
+        "Weapon Type": "非枪支",
+        "Info": "8人乘坐快艇，登上一艘正在进行捕鱼作业的渔船。\n行凶者绑架了两名船员并逃走了。\n喀麦隆海军已经通知，调查正在进行中。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.9258333, 4.17388889]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 155,
+        "Month": 9,
+        "Day": 16,
+        "Time": "0250UTC",
+        "Vessel Name": "Name withheld",
+        "Ship Type": "成品油轮",
+        "IMO": null,
+        "Waters": "领海",
+        "Longitude": 9.41666667,
+        "Latitude": -13.73611111,
+        "Region": "西非",
+        "Position": "几内亚",
+        "Attack Type": "袭击",
+        "Weapon Type": "枪支",
+        "Info": "9月16日，位于几内亚09°25′0N  013°44′1W位置，时间0250 UTC。四名手持枪和刀的海盗登上了一艘停泊的油轮。他们劫持了水手并强迫他带领他们到驾驶台。进入驾驶台后，海盗又劫持了值班驾驶员并强迫他将他们带到船长，轮机长和水手长的房间。海盗抢劫完后将船员锁定在船舱内并逃脱。船员的个人物品，现金和船舶财产被抢。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-13.73611111, 9.41666667]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 156,
+        "Month": 9,
+        "Day": 18,
+        "Time": "1900UTC",
+        "Vessel Name": null,
+        "Ship Type": "油轮",
+        "IMO": null,
+        "Waters": null,
+        "Longitude": 116.71833333,
+        "Latitude": -1.10972222,
+        "Region": "东南亚",
+        "Position": "印度尼西亚",
+        "Attack Type": "侵扰",
+        "Weapon Type": "非枪支",
+        "Info": "9月18日，位于1°6'35S  116°43'6 E位置，时间1900 UTC。两名可疑人员登上一艘停泊的油轮。船上值班人员注意到他们，并发出警报。可疑人员在听到警报后逃跑。事件报告给地方当局。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.10972222, 116.71833333]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 157,
+        "Month": 9,
+        "Day": 22,
+        "Time": null,
+        "Vessel Name": "EF ELDRA",
+        "Ship Type": "集装箱船",
+        "IMO": "9470882",
+        "Waters": "领海",
+        "Longitude": -2.54527778,
+        "Latitude": -80.10333333,
+        "Region": "拉丁美洲",
+        "Position": "厄瓜多尔",
+        "Attack Type": "袭击",
+        "Weapon Type": "非枪支",
+        "Info": "船上两名值班船员在领航下未能对东方海外的例行无线电检查作出反应。\n调查显示，两名船员都遭到了袭击并被绑起来。\n他们报告说，7名携带猎枪的人登上飞机，把他们作为人质，偷走了他们的个人物品和收音机，然后逃跑。\n该船驶往波索尔加路，海岸警卫队和缉毒警察队登船搜查。\n放行后，船又继续航行。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.10333333, -2.54527778]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 158,
+        "Month": 9,
+        "Day": 22,
+        "Time": "0100UTC",
+        "Vessel Name": null,
+        "Ship Type": "集装箱船",
+        "IMO": null,
+        "Waters": null,
+        "Longitude": 9.41666667,
+        "Latitude": -13.73361111,
+        "Region": "拉丁美洲",
+        "Position": "厄瓜多尔",
+        "Attack Type": "袭击",
+        "Weapon Type": "枪支",
+        "Info": "9月22日，位于厄瓜多尔02°32′44S  080°05′72W位置，时间0100 UTC。一艘集装箱船上的两名值班船员未能对OOW的例行无线电检查做出回应。调查显示，两名船员均遭到捆绑和殴打。事后，他们报告说，七名持枪人员登上了船舶并挟持了他们，海盗抢走了他们的个人物品和对讲机。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-13.73361111, 9.41666667]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 159,
+        "Month": 9,
+        "Day": 23,
+        "Time": "0315UTC",
+        "Vessel Name": "GRACE VICTORIA",
+        "Ship Type": "成品油轮",
+        "IMO": "9321201",
+        "Waters": "领海",
+        "Longitude": 6.28527778,
+        "Latitude": 3.23361111,
+        "Region": "西非",
+        "Position": "尼日利亚",
+        "Attack Type": "侵扰",
+        "Weapon Type": "非枪支",
+        "Info": "9月23日，位于尼日利亚06°17′7N  003°14′1E 位置，时间0315 UTC。一艘油轮上的值班员注意到前货舱附近有两名海盗，并发出警报。一名海盗向值班员大喊，并做出威胁的手势。警报响起，尼日利亚海军巡逻艇作出反应并搜索了这艘油轮周围的水域。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.23361111, 6.28527778]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 160,
+        "Month": 9,
+        "Day": 23,
+        "Time": "0358UTC",
+        "Vessel Name": "NA",
+        "Ship Type": "渔船",
+        "IMO": null,
+        "Waters": "领海",
+        "Longitude": 5.56805556,
+        "Latitude": 117.11805556,
+        "Region": "东南亚",
+        "Position": "马来西亚",
+        "Attack Type": "绑架",
+        "Weapon Type": "枪支",
+        "Info": "9月23日，位于马来西亚05°34′05N  119°07′05E位置，时间0358 UTC。7名蒙面男子手持M16、RPG和手枪等武器，乘坐两艘泵艇靠近两艘渔船。这些人海盗登上渔船并抢劫了船员的个人物品和财产。离开船舶前，海盗绑架了其中一艘船上的3名船员作为人质。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [117.11805556, 5.56805556]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 161,
+        "Month": 9,
+        "Day": 23,
+        "Time": "1700UTC",
+        "Vessel Name": "Name withheld",
+        "Ship Type": "油轮",
+        "IMO": null,
+        "Waters": "港区",
+        "Longitude": 13.76666667,
+        "Latitude": 120.98333333,
+        "Region": "东南亚",
+        "Position": "菲律宾",
+        "Attack Type": "侵扰",
+        "Weapon Type": "非枪支",
+        "Info": "9月23日，位于菲律宾13°46′N  120°59′E位置，时间1700 UTC。一艘停泊油轮上的值班人员发现有可疑人员试图登上船舶。值班人员迅速发出警报，船员集合。可疑人员在听到警报后逃跑。事件报告给港口当局。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [120.98333333, 13.76666667]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 162,
+        "Month": 9,
+        "Day": 23,
+        "Time": "1925UTC",
+        "Vessel Name": "TRAMMO CORNELL",
+        "Ship Type": "液化船 油轮",
+        "IMO": "9543081",
+        "Waters": "港区",
+        "Longitude": 17.05222222,
+        "Latitude": 82.43388889000001,
+        "Region": "东南亚",
+        "Position": "印度",
+        "Attack Type": "侵扰",
+        "Weapon Type": "非枪支",
+        "Info": "9月23日，位于印度17°03′8N  082°26′2E位置，时间1925 UTC。四名可疑人员使用带有绳索的钩子登上一艘停泊的油轮。船上的值班人员注意到了他们，并发出警报，听到警报后可疑人员逃走。事件报告给港口当局。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [82.43388889, 17.05222222]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 163,
+        "Month": 9,
+        "Day": 25,
+        "Time": "2015UTC",
+        "Vessel Name": "FRONT LEOPARD",
+        "Ship Type": "油轮",
+        "IMO": "9703320",
+        "Waters": "国际海域",
+        "Longitude": 1.56666667,
+        "Latitude": 104.51666667000001,
+        "Region": "东南亚",
+        "Position": "马来西亚",
+        "Attack Type": "偷盗",
+        "Weapon Type": "非枪支",
+        "Info": "9月25日，位于马来西亚01°34′N  104°31′E位置，时间2015 UTC。未知数量的人员通过锚链登上一艘停泊的油轮，船上的物品被盗。船舶水手在例行巡逻中发现这一事件。事件报给港口当局。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [104.51666667, 1.56666667]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 164,
+        "Month": 9,
+        "Day": 25,
+        "Time": "2206UTC",
+        "Vessel Name": "TSL ROSEMARY",
+        "Ship Type": "杂货船",
+        "IMO": "9527192",
+        "Waters": "国际海域",
+        "Longitude": 1.6,
+        "Latitude": 104.53333333,
+        "Region": "东南亚",
+        "Position": "马来西亚",
+        "Attack Type": "侵扰",
+        "Weapon Type": "非枪支",
+        "Info": "9月25日，位于马来西亚01°36′N  104°32′E位置，时间2206 UTC。一艘锚定的杂货船上的值班人员在船头上发现了三名海盗，并发出了警报。船舶人员集合，看到船员集合后，三名海盗通过系泊绳逃跑。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [104.53333333, 1.6]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 165,
+        "Month": 9,
+        "Day": 30,
+        "Time": "1515UTC",
+        "Vessel Name": "TRANSPACIFIC",
+        "Ship Type": "散货船",
+        "IMO": "9597226",
+        "Waters": "领海",
+        "Longitude": 1.03527778,
+        "Latitude": 103.65,
+        "Region": "东南亚",
+        "Position": "新加坡",
+        "Attack Type": "袭击",
+        "Weapon Type": "枪支",
+        "Info": "9月30日，位于新加坡01°02′7N  103°39′0E位置，时间1515 UTC。一艘行进的散货船上，例行巡逻中的甲板人员在船尾甲板上发现了五名武装海盗。值班人员发出警报，激活SSAS并发出PA通知，导致海盗逃逸而没有偷东西。事件报告给新加坡VTIS。将近一个小时后，在新加坡水域，一艘新加坡海岸警卫船拦截并护送该船前往新加坡，他们登船并搜查了该船，以确保海盗已离开。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.65, 1.03527778]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 166,
+        "Month": 9,
+        "Day": 30,
+        "Time": "0655UTC",
+        "Vessel Name": "DORTHE OLDENDORFF",
+        "Ship Type": "散货船",
+        "IMO": "9598921",
+        "Waters": "港区",
+        "Longitude": -12.03055556,
+        "Latitude": -77.18583333,
+        "Region": "拉丁美洲",
+        "Position": "秘鲁",
+        "Attack Type": "抢劫",
+        "Weapon Type": "枪支",
+        "Info": "9月30日，位于秘鲁12°1’50S  077°11’9W位置，时间0655 UTC。四名海盗在卡亚俄锚地登上了一艘散货船。袭击者劫持了船上的一名水手，并系住他的手，随后他们抢劫了船上的财物。当值班驾驶员没有收到水手的答复时，他命令其他船员进行调查。到达甲板后，船员看到水手被绑住并发出警报，警报发出后海盗逃跑。该事件已报告给卡亚俄港口当局（据报有两条系泊绳丢失）。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.18583333, -12.03055556]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 167,
+        "Month": 10,
+        "Day": 3,
+        "Time": null,
+        "Vessel Name": "ASD JAGUAR",
+        "Ship Type": "补给船",
+        "IMO": "7423861",
+        "Waters": "领海",
+        "Longitude": 21.1472222,
+        "Latitude": 70.12222222,
+        "Region": "东非",
+        "Position": "印度",
+        "Attack Type": "袭击",
+        "Weapon Type": "非枪支",
+        "Info": "正当牵引ASD捷豹的“Bateleur”号拖船正在拖航时，拖轮负责人看到三名肇事者登上ASD捷豹，准备前往巴夫纳加尔(戈帕纳斯点以西)进行拆卸。\n行凶者偷了船上的补给品逃跑了。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [70.12222222, 21.1472222]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 168,
+        "Month": 10,
+        "Day": 5,
+        "Time": null,
+        "Vessel Name": "MFB Dahlia",
+        "Ship Type": "渔船",
+        "IMO": null,
+        "Waters": "领海",
+        "Longitude": 4.351944444,
+        "Latitude": 6.872222222,
+        "Region": "西非",
+        "Position": "尼日利亚",
+        "Attack Type": "袭击",
+        "Weapon Type": "枪支",
+        "Info": "一艘有机械故障的渔船漂流到Sambreiro河口，在那里遭到几人的攻击。\n那些人破坏了船只并逃走了。\n船主通知了尼日利亚海军，他们找到并检查了这艘船。\n调查正在进行中。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.872222222, 4.351944444]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 169,
+        "Month": 10,
+        "Day": 5,
+        "Time": "0200UTC",
+        "Vessel Name": "UACC MIRDIF",
+        "Ship Type": "成品油轮",
+        "IMO": "9402794",
+        "Waters": "港区",
+        "Longitude": 6.28388889,
+        "Latitude": 3.21888889,
+        "Region": "西非",
+        "Position": "尼日利亚",
+        "Attack Type": "侵扰",
+        "Weapon Type": "非枪支",
+        "Info": "10月05日，位于尼日利亚06°17′2N  003°13′8E位置，时间0200 UTC。一艘停泊油轮上的值班员发现有3名未经授权的可疑人员登上船舶。值班人员随即发出警告，听到警报后可疑人员逃跑。事件报告给尼日利亚海军，一艘巡逻船抵达调查。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.21888889, 6.28388889]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 170,
+        "Month": 10,
+        "Day": 5,
+        "Time": "2359UTC",
+        "Vessel Name": "CLIPPER EOS",
+        "Ship Type": "液化船 油轮",
+        "IMO": "9827205",
+        "Waters": "港区",
+        "Longitude": 1.30388889,
+        "Latitude": 104.1175,
+        "Region": "东南亚",
+        "Position": "马来西亚",
+        "Attack Type": "偷盗",
+        "Weapon Type": "非枪支",
+        "Info": "10月05日，位于马来西亚01°18′14N  104°07′03E位置，时间1800 至2359 UTC之间。海盗登上了一艘停泊的油轮，偷窃了船上的物品并逃走了。船舶值班员在例行巡逻中发现了偷窃事件。事件报告给港口当局。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [104.1175, 1.30388889]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 171,
+        "Month": 10,
+        "Day": 6,
+        "Time": "2230UTC",
+        "Vessel Name": "ROSE M",
+        "Ship Type": "成品油轮",
+        "IMO": "9311000",
+        "Waters": "港区",
+        "Longitude": null,
+        "Latitude": null,
+        "Region": "西非",
+        "Position": "尼日利亚",
+        "Attack Type": "侵扰",
+        "Weapon Type": "非枪支",
+        "Info": "10月06日，位于拉各斯Apapa BOP码头。时间2230 UTC。七至八名武装人员乘坐两艘木艇靠近并登上一艘停泊的油轮。油轮上的值班人员注意到海盗，拉响警报并停止卸货。听到警报后，海盗逃跑，但在逃跑前对船舶开火。据报道，没有造成人员伤亡。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 172,
+        "Month": 10,
+        "Day": 8,
+        "Time": "2240UTC",
+        "Vessel Name": "FUGRO HELMERT",
+        "Ship Type": "救助船",
+        "IMO": "9662978",
+        "Waters": "港区",
+        "Longitude": -4.83694444,
+        "Latitude": 11.86527778,
+        "Region": "西非",
+        "Position": "刚果",
+        "Attack Type": "侵扰",
+        "Weapon Type": "非枪支",
+        "Info": "10月08日，位于刚果4°50’13S  011°51’55E位置，时间2240 UTC。一艘刚果研究船上的刚果船长听到船上有声响，并注意到船上有未授权人员。船长随即发出紧急警报并召集船员。听到警报后，可疑人员逃跑。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.86527778, -4.83694444]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 173,
+        "Month": 10,
+        "Day": 8,
+        "Time": "1920UTC",
+        "Vessel Name": "Name withheld",
+        "Ship Type": "成品油轮",
+        "IMO": null,
+        "Waters": "港区",
+        "Longitude": 1.71666667,
+        "Latitude": 101.43333333,
+        "Region": "东南亚",
+        "Position": "印度尼西亚",
+        "Attack Type": "侵扰",
+        "Weapon Type": "非枪支",
+        "Info": "10月08日，位于印度尼西亚01°43N  101°26E位置，时间1920 UTC。一艘停泊的油轮上的值班人员注意到甲板上有四名海盗，值班人员发出警报并通知船长。听到警报声后，海盗逃跑。事件报告给当地港口当局。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.43333333, 1.71666667]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 174,
+        "Month": 10,
+        "Day": 12,
+        "Time": "0010UTC",
+        "Vessel Name": "ANSHUN",
+        "Ship Type": "散货船",
+        "IMO": "9851347",
+        "Waters": "港区",
+        "Longitude": 18.5525,
+        "Latitude": -72.38388889,
+        "Region": "拉丁美洲",
+        "Position": "海地",
+        "Attack Type": "劫持",
+        "Weapon Type": "枪支",
+        "Info": "10月12日，位于海地18°33′9N   072°23′2W位置，时间0010 UTC。一艘停泊的散货船上的值班人员在例行巡逻过程中被持枪和持刀的海盗劫持为人质。警报响起，船舶人员聚集。海盗看到被惊动的船员，带着偷来的财物逃跑了。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-72.38388889, 18.5525]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 175,
+        "Month": 10,
+        "Day": 12,
+        "Time": null,
+        "Vessel Name": "Name withheld",
+        "Ship Type": "成品油轮",
+        "IMO": null,
+        "Waters": "港区",
+        "Longitude": -12.0,
+        "Latitude": -77.18611111,
+        "Region": "拉丁美洲",
+        "Position": "秘鲁",
+        "Attack Type": "侵扰",
+        "Weapon Type": "非枪支",
+        "Info": "一艘抛锚的油船上值班的值班员注意到前甲板上有三个未经许可的人，于是发出了警报。\n看到警觉的船员，这些人乘他们的船逃走了。\n进一步的调查显示，行凶者打开了博新储藏间的天窗，但却什么也没偷到。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.18611111, -12.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 176,
+        "Month": 10,
+        "Day": 14,
+        "Time": "2200UTC",
+        "Vessel Name": null,
+        "Ship Type": "油轮",
+        "IMO": null,
+        "Waters": null,
+        "Longitude": 3.91666667,
+        "Latitude": 98.8,
+        "Region": "东南亚",
+        "Position": "印度尼西亚",
+        "Attack Type": "侵扰",
+        "Weapon Type": "非枪支",
+        "Info": "10月14日，位于印度尼西亚03°55N  098°48E位置，时间2200 UTC。一艘停泊的油轮上的值班人员发现一名海盗正试图通过锚链登轮，另外两名海盗乘坐小船在油轮旁边等待。值班人员发出警报并集合船员。听到警报声后，海盗逃跑。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [98.8, 3.91666667]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 177,
+        "Month": 10,
+        "Day": 18,
+        "Time": "1507UTC",
+        "Vessel Name": "HIRADO",
+        "Ship Type": "油轮",
+        "IMO": "9377420",
+        "Waters": "领海",
+        "Longitude": 1.08333333,
+        "Latitude": 103.70083333,
+        "Region": "东南亚",
+        "Position": "新加坡",
+        "Attack Type": "袭击",
+        "Weapon Type": "非枪支",
+        "Info": "10月18日，位于新加坡01°05′1N  103°42′3E位置，时间1507UTC。五名持刀和撬棍的海盗登上一轮油轮并进入机舱。值班机务人员注意到海盗并发出警报。随后，海盗逃跑。事件报给新加坡VTIS。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.70083333, 1.08333333]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 178,
+        "Month": 10,
+        "Day": 19,
+        "Time": "1700UTC",
+        "Vessel Name": "NORD STEEL",
+        "Ship Type": "散货船",
+        "IMO": "9406518",
+        "Waters": "领海",
+        "Longitude": 1.0625,
+        "Latitude": 103.65277778,
+        "Region": "东南亚",
+        "Position": "新加坡",
+        "Attack Type": "劫持",
+        "Weapon Type": "枪支",
+        "Info": "10月19日，位于新加坡海峡01°03′45N  103°38′70E位置，时间1700 UTC。五名拿着枪和刀的海盗，劫持了一艘散货轮上的巡回检查值班员。海盗绑住了他的手，然后他们偷走了船上的备件并逃脱了。事件被报告给新加坡当局。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.65277778, 1.0625]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 179,
+        "Month": 10,
+        "Day": 20,
+        "Time": "0320UTC",
+        "Vessel Name": "MAERSK ROUBAIX",
+        "Ship Type": "集装箱船",
+        "IMO": "9332688",
+        "Waters": "港区",
+        "Longitude": -4.75527778,
+        "Latitude": 11.7880556,
+        "Region": "西非",
+        "Position": "刚果",
+        "Attack Type": "偷盗",
+        "Weapon Type": "非枪支",
+        "Info": "10月20日，位于刚果锚地，时间0320 UTC。一艘锚泊的集装箱船上，值班人员在例行巡逻的过程中，发现船舶储藏室的门被打开，物品被盗。事件报告给港口当局。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.7880556, -4.75527778]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 180,
+        "Month": 10,
+        "Day": 21,
+        "Time": "1747UTC",
+        "Vessel Name": "CSK ENTERPRISE",
+        "Ship Type": "散货船",
+        "IMO": "9816555",
+        "Waters": "港区",
+        "Longitude": -6.0175,
+        "Latitude": 105.88555556,
+        "Region": "东南亚",
+        "Position": "印度尼西亚",
+        "Attack Type": "袭击",
+        "Weapon Type": "非枪支",
+        "Info": "10月21日，位于印度尼西亚06°01′3S  105°53′8E位置，时间1747 UTC。一艘停泊的散货船上，值班人员在巡逻时发现机舱入口处发现四名海盗。值班人员发出警报，船员集合。听到警报后，海盗逃跑，没有物品丢失。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [105.88555556, -6.0175]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 181,
+        "Month": 10,
+        "Day": 24,
+        "Time": "2115UTC",
+        "Vessel Name": "NCC Amal",
+        "Ship Type": "成品油轮",
+        "IMO": "9411317",
+        "Waters": "领海",
+        "Longitude": 1.05,
+        "Latitude": 103.63333333,
+        "Region": "东南亚",
+        "Position": "新加坡",
+        "Attack Type": "袭击",
+        "Weapon Type": "非枪支",
+        "Info": "10月24日，位于新加坡海峡01°03′0N   103°38′0E位置，时间2115 UTC。一艘正在行进的油轮上的值班人员发现甲板上有四名海盗，随后值班人员发出警报。听到警报后，四名海盗逃跑了，没有物品丢失。事件报告给新加坡VTIS。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.63333333, 1.05]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 182,
+        "Month": 11,
+        "Day": 2,
+        "Time": "0320UTC",
+        "Vessel Name": "Bonita",
+        "Ship Type": "散货船",
+        "IMO": "9494060",
+        "Waters": "领海",
+        "Longitude": 6.25,
+        "Latitude": 2.55,
+        "Region": "西非",
+        "Position": "贝宁",
+        "Attack Type": "绑架",
+        "Weapon Type": "枪支",
+        "Info": "11月02日，位于贝宁06°15N  002°33E位置，时间0320 UTC。挪威航运公司JJ Ugland发消息称：该公司旗下的一艘货船“Bonita”在贝宁科托努海港外遭遇海盗袭击，船上有8名船员和1名船长被绑架，均为菲律宾人。该船当时正准备前往贝宁，但在距离科托努海港约14公里遇袭，9名船员被海盗绑走。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.55, 6.25]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 183,
+        "Month": 11,
+        "Day": 4,
+        "Time": "0240UTC",
+        "Vessel Name": "Elka Aristotle",
+        "Ship Type": "成品油轮",
+        "IMO": "9249099",
+        "Waters": "领海",
+        "Longitude": 5.97277778,
+        "Latitude": 1.26944444,
+        "Region": "西非",
+        "Position": "多哥",
+        "Attack Type": "袭击",
+        "Weapon Type": "枪支",
+        "Info": "11月04日，位于洛美05°58′22N  001°15′70E位置，时间0240 UTC。三名武装海盗袭击了一艘希腊油轮。武装海盗开枪打伤了一名随船安保人员，在绑架了4名船员后逃跑。被绑架的船员分别是两名菲律宾人，一名希腊人，一名格鲁吉亚人。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1.26944444, 5.97277778]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 184,
+        "Month": 11,
+        "Day": 4,
+        "Time": "2100LT",
+        "Vessel Name": "Independencia",
+        "Ship Type": "石油平台",
+        "IMO": null,
+        "Waters": null,
+        "Longitude": null,
+        "Latitude": null,
+        "Region": "拉丁美洲",
+        "Position": "墨西哥",
+        "Attack Type": "劫持",
+        "Weapon Type": "枪支",
+        "Info": "11月04日，位于墨西哥，时间2100LT。墨西哥一伙武装海盗携带自动武器袭击了塔巴斯科州的一个石油平台。这伙武装海盗乘坐快艇趁着夜色登上了格鲁波·卡索（Grupo Carso）拥有的Independencia石油平台。登上平台后，武装海盗挟持一些人员并以此威胁其他平台人员。同时，平台管理人员在遭受袭击后向外界发出求救信号。几分钟后，这伙武装海盗离开，半个小时后当地海军到达并开始调查。奇怪的是，在该起事件中，尽管武装海盗持有武器，但并未出现人员伤亡，也未发生人员被绑架的情况。此外，新闻报道中也未提及是否有财产损失，因此也无法判断这次袭击的主要目的。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 185,
+        "Month": 11,
+        "Day": 5,
+        "Time": null,
+        "Vessel Name": "GT EQUALITY",
+        "Ship Type": "成品油轮",
+        "IMO": "9205512",
+        "Waters": "领海",
+        "Longitude": 1.21666667,
+        "Latitude": 103.575,
+        "Region": "东南亚",
+        "Position": "新加坡",
+        "Attack Type": "袭击",
+        "Weapon Type": "非枪支",
+        "Info": "六人乘坐两艘快艇靠近正在航行的油轮。\n值班船员注意到有人企图登油轮，于是发出了警报。\n船长加快了速度，采取了规避动作，结果导致登船企图流产。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.575, 1.21666667]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 186,
+        "Month": 11,
+        "Day": 7,
+        "Time": "1900UTC",
+        "Vessel Name": "MAERSK BORNEO",
+        "Ship Type": "成品油轮",
+        "IMO": "9341445",
+        "Waters": "港区",
+        "Longitude": 3.78388889,
+        "Latitude": 98.68555556,
+        "Region": "东南亚",
+        "Position": "印度尼西亚",
+        "Attack Type": "侵扰",
+        "Weapon Type": "非枪支",
+        "Info": "11月07日，位于印度尼西亚03°47′2N  098°41′8E位置，时间1900 UTC。一艘停泊的油轮上的值班人员注意到一名海盗正视图利用带钩的绳子登上船舶。值班人员随后发出警报并召集船员，听到警报声后，海盗逃跑。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [98.68555556, 3.78388889]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 187,
+        "Month": 11,
+        "Day": 7,
+        "Time": "0015UTC",
+        "Vessel Name": "CASCADE SPIRIT",
+        "Ship Type": "油轮",
+        "IMO": "9399492",
+        "Waters": "国际海域",
+        "Longitude": 1.21833333,
+        "Latitude": 6.15166667,
+        "Region": "西非",
+        "Position": "圣多美和普林西比",
+        "Attack Type": "袭击",
+        "Weapon Type": "枪支",
+        "Info": "11月07日，位于圣多美和普林西比01°13′6N   006°09′6E位置，时间0015 UTC。武装海盗乘坐一艘快艇接近一艘油轮并向其开火。油轮遇袭后，发出求救信号并增加船速采取规避机动。油轮上开启消防泵阻止海盗接近并向海盗快艇发生四名信号弹。由于船舶采取了防卫，海盗终止袭击并逃跑了，事件中船舶和船员是安全的。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.15166667, 1.21833333]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 188,
+        "Month": 11,
+        "Day": 8,
+        "Time": "0205UTC",
+        "Vessel Name": "ATLANTIC LAUREL",
+        "Ship Type": "散货船",
+        "IMO": "9494747",
+        "Waters": "港区",
+        "Longitude": 30.43194444,
+        "Latitude": -9.65777778,
+        "Region": "西非",
+        "Position": "摩洛哥",
+        "Attack Type": "袭击",
+        "Weapon Type": "非枪支",
+        "Info": "11月08日，位于摩洛哥30°25′55N 009°38′88W位置，时间0205 UTC。一艘停泊的散货船上的值班人员注意到有4名海盗登上了船舶，值班人员立即发出警报并集合船员。听到警报声和看船员集合后，4名海盗逃跑。经检查，船舶没有物品被盗。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-9.65777778, 30.43194444]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 189,
+        "Month": 11,
+        "Day": 11,
+        "Time": null,
+        "Vessel Name": "REMAS",
+        "Ship Type": "补给船",
+        "IMO": null,
+        "Waters": null,
+        "Longitude": null,
+        "Latitude": null,
+        "Region": "拉丁美洲",
+        "Position": "墨西哥",
+        "Attack Type": "袭击",
+        "Weapon Type": "枪支",
+        "Info": "11月11日，位于墨西哥卡门城北的墨西哥湾，一艘载有35人的意大利海上补给船REMAS遭到两条快艇上的7-8名武装海盗袭击。海盗登船后，袭击并抢劫了船员，两名意大利船员受伤，但幸运的是没有生命危险。随后海盗逃走了。受伤的海员被转移到医院，REMAS移至卡门城锚地抛锚。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 190,
+        "Month": 11,
+        "Day": 11,
+        "Time": "0730UTC",
+        "Vessel Name": "OCEAN MERCURY",
+        "Ship Type": "散货船",
+        "IMO": "9616735",
+        "Waters": "港区",
+        "Longitude": 4.54916667,
+        "Latitude": 7.19694444,
+        "Region": "西非",
+        "Position": "尼日利亚",
+        "Attack Type": "绑架",
+        "Weapon Type": "枪支",
+        "Info": "11月11日，位于邦尼4°32’57N  7°11’49E位置，时间0700–0730 UTC。4名尼日利亚移民局官员在里弗斯州邦尼水道被绑架。当时，他们正准备从邦尼（Bonny）前往哈科特（Harcourt）港口处理事务。但在航行的过程中，遭遇武装海盗袭击。武装海盗在强行登轮后带走了他们作为人质。目前，根据最新消息，尼日利亚海军已于11月13日成功解救4名人质，没有人员受伤。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.19694444, 4.54916667]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 191,
+        "Month": 11,
+        "Day": 19,
+        "Time": "2155UTC",
+        "Vessel Name": "BALTIC MANTIS",
+        "Ship Type": "散货船",
+        "IMO": "9729489",
+        "Waters": "港区",
+        "Longitude": -14.38083333,
+        "Latitude": 40.71861111,
+        "Region": "东非",
+        "Position": "莫桑比克",
+        "Attack Type": "侵扰",
+        "Weapon Type": "非枪支",
+        "Info": "11月19日，位于莫桑比克14°22′51S   040°42′67E位置，时间2155 UTC。一艘停泊的散货船上的值班人员发现甲板上有可疑人员。值班人员立即发出警报并集合船员。听到警报声后，海盗逃跑。船员集合后，对全船进行了搜查，经检查没有物品被盗。事件报告给港口当局。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [40.71861111, -14.38083333]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 192,
+        "Month": 11,
+        "Day": 20,
+        "Time": "0420UTC",
+        "Vessel Name": null,
+        "Ship Type": "拖船",
+        "IMO": "新加坡",
+        "Waters": null,
+        "Longitude": 3.76666667,
+        "Latitude": 8.23333333,
+        "Region": "西非",
+        "Position": "几内亚湾",
+        "Attack Type": "绑架",
+        "Weapon Type": "枪支",
+        "Info": "11月20日，位于几内亚湾03°46N 008°14E位置，时间0420UTC。新加坡籍近海拖船PACIFIC WARDEN在比奥科岛附近遭遇武装海盗袭击。拖轮上的15名船员中有7人被绑架，其他8人因躲在船舱中而避免被绑架。该轮的船员包括南非、喀麦隆、菲律宾和塞尔维亚人。该轮于11月21日开往马拉博，并停留在马拉博港口。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.23333333, 3.76666667]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 193,
+        "Month": 11,
+        "Day": 20,
+        "Time": "0522LT",
+        "Vessel Name": null,
+        "Ship Type": "散货船",
+        "IMO": null,
+        "Waters": null,
+        "Longitude": 1.2675,
+        "Latitude": 104.23555556,
+        "Region": "东南亚",
+        "Position": "马来西亚",
+        "Attack Type": "侵扰",
+        "Weapon Type": "非枪支",
+        "Info": "11月22日，位于马来西亚01°16′3N  104°14′08E位置，时间0522 LT。5名持有长刀的海盗登上一艘正在行进的散货船。值班人员发现了他们并发出警报，船员在听到警报后集合。看到船员集合后，5名海盗逃跑。船舶报告没有人员受伤和财物丢失。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [104.23555556, 1.2675]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 194,
+        "Month": 11,
+        "Day": 23,
+        "Time": "1020UTC",
+        "Vessel Name": "GALVESTON HIGHWAY",
+        "Ship Type": "Vehicle carrier",
+        "IMO": "9675573",
+        "Waters": "港区",
+        "Longitude": -12.01888889,
+        "Latitude": -77.18527778000001,
+        "Region": "拉丁美洲",
+        "Position": "秘鲁",
+        "Attack Type": "偷盗",
+        "Weapon Type": "非枪支",
+        "Info": "11月23日，位于秘鲁12°01′8S 077°11′7W位置，时间1020 UTC。一艘锚泊的滚装船上，值班人员注意到前舱门盖被打开。值班人员在检查后，发现有三根系泊绳被盗。事件向卡亚俄港口当局报告。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.18527778, -12.01888889]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 195,
+        "Month": 11,
+        "Day": 24,
+        "Time": "0330LT",
+        "Vessel Name": "HARBOUR LIBRA",
+        "Ship Type": "拖轮",
+        "IMO": "9570383",
+        "Waters": "领海",
+        "Longitude": 1.24027778,
+        "Latitude": 104.06694444,
+        "Region": "东南亚",
+        "Position": "印度尼西亚",
+        "Attack Type": "偷盗",
+        "Weapon Type": "非枪支",
+        "Info": "11月24日，位于印度尼西亚01°14′25N 104°4′01E位置，时间0330 LT。2名海盗登上一艘正在行进中的拖船。拖船上的值班人员发现海盗并发出警报，听到警报后海盗逃跑。经检查，船上的一些绳索被盗。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [104.06694444, 1.24027778]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 196,
+        "Month": 11,
+        "Day": 27,
+        "Time": "2045UTC",
+        "Vessel Name": "KMAX EVDOKIA",
+        "Ship Type": "散货船",
+        "IMO": "9341873",
+        "Waters": "领海",
+        "Longitude": 1.30527778,
+        "Latitude": 104.34638889,
+        "Region": "东南亚",
+        "Position": "新加坡",
+        "Attack Type": "袭击",
+        "Weapon Type": "非枪支",
+        "Info": "11月27日，位于新加坡海峡01°17′79N  104°20′47E位置，时间2045 UTC。海盗登上一艘正在行进中的散货船。海盗登轮后试图持刀劫持一名值班人员，但值班人员设法逃脱并发出警报。听到警报后，船舶人员集合。海盗在看到船员集合后，放弃袭击并逃跑。事件报告给VTIS，一艘巡逻艇被派往事发地点。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [104.34638889, 1.30527778]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 197,
+        "Month": 11,
+        "Day": 28,
+        "Time": null,
+        "Vessel Name": "CHINA PIONEER",
+        "Ship Type": "散货船",
+        "IMO": "9588768",
+        "Waters": "领海",
+        "Longitude": 1.272222222,
+        "Latitude": 104.2277778,
+        "Region": "东南亚",
+        "Position": "新加坡",
+        "Attack Type": "袭击",
+        "Weapon Type": "非枪支",
+        "Info": "在航行中，轮机长看见四名罪犯在二层甲板的机舱里。\n其中一名罪犯手持一把约50厘米长的刀。\n轮机长向船长报告了未经批准的登船事件。\n船上的警报和甲板上的灯光一亮，肇事者就逃走了。\n船员们在舰桥集合，在船上进行了搜查。\n所有船员都安然无恙，没有任何东西被偷。\n该船离开新加坡前往中国马吉山。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [104.2277778, 1.272222222]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 198,
+        "Month": 11,
+        "Day": 30,
+        "Time": null,
+        "Vessel Name": "RIO DAYTONA",
+        "Ship Type": "油轮",
+        "IMO": "9449443",
+        "Waters": "港区",
+        "Longitude": 13.74166667,
+        "Latitude": 121.0444444,
+        "Region": "东南亚",
+        "Position": "印度尼西亚",
+        "Attack Type": "袭击",
+        "Weapon Type": "非枪支",
+        "Info": "在泊船期间，两名抢匪从锚链管上登船，从水手长仓舱口偷走了1只消防水枪、1只消火栓盖和5只蝶形螺栓。\n当值班员发现他们时，他们立即逃走了。\n船员们通知了船长，发出了船上的警报，并检查了船上财产的清单。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.0444444, 13.74166667]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 199,
+        "Month": 11,
+        "Day": 30,
+        "Time": null,
+        "Vessel Name": "CMA CGM NEW JERSEY",
+        "Ship Type": "集装箱船",
+        "IMO": "9351141",
+        "Waters": "港区",
+        "Longitude": 14.55472222,
+        "Latitude": 120.8847222,
+        "Region": "东南亚",
+        "Position": "菲律宾",
+        "Attack Type": "袭击",
+        "Weapon Type": "非枪支",
+        "Info": "劫匪们登上一艘停泊的船，通过锚链和锚链管等待泊船指示。\n他们撬开水手长储藏间的锁，偷走了船上的财物，然后逃走了。\n这起盗窃案是在例行巡逻时被发现的。\n事件已报告给港口当局。\n水手长店的锁坏了，船的财产被偷了:一台角磨机，一条焊接逆变电缆，6件潜水服。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [120.8847222, 14.55472222]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 200,
+        "Month": 12,
+        "Day": 1,
+        "Time": null,
+        "Vessel Name": "DIONE",
+        "Ship Type": "散货船",
+        "IMO": "9213363",
+        "Waters": "港区",
+        "Longitude": 17.62472222,
+        "Latitude": 83.37772222,
+        "Region": "东非",
+        "Position": "印度",
+        "Attack Type": "偷盗",
+        "Weapon Type": "非枪支",
+        "Info": "在停泊期间，一只小艇上的六名罪犯靠近该船，企图用带钩的绳索登船。\n船长向维萨卡帕特南港口控制中心报告了这一事件，后者建议船长联系印度海岸警卫队(ICG)。\n一艘ICG船随后被指挥去协助这艘船。\n在ICG抵达之前，一艘印度海军舰艇靠近了这艘散货船。\n当看到海军舰艇接近散货船时，肇事者切断绳索逃跑。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [83.37772222, 17.62472222]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 201,
+        "Month": 12,
+        "Day": 2,
+        "Time": null,
+        "Vessel Name": "BW LOYALTY",
+        "Ship Type": "拖轮",
+        "IMO": "9492622",
+        "Waters": "领海",
+        "Longitude": 1.1833333,
+        "Latitude": 103.95,
+        "Region": "东南亚",
+        "Position": "新加坡",
+        "Attack Type": "侵扰",
+        "Weapon Type": "非枪支",
+        "Info": "在航行中，一艘载有五到七名罪犯的可疑船只靠近拖船。\n其中一名作恶者试图在左舷固定绳索，但由于波涛汹涌的水域和大风，未能成功。\n值班军官拉响了一般的警报，那艘可疑的船放弃了登船的企图。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.95, 1.1833333]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 202,
+        "Month": 12,
+        "Day": 3,
+        "Time": "1810UTC",
+        "Vessel Name": "Nave Constellation",
+        "Ship Type": "超级油轮",
+        "IMO": "香港",
+        "Waters": null,
+        "Longitude": 3.08333333,
+        "Latitude": 7.1,
+        "Region": "西非",
+        "Position": "几内亚湾",
+        "Attack Type": "绑架",
+        "Weapon Type": "枪支",
+        "Info": "12月03日，一艘香港籍超级油轮在几内亚湾遭遇海盗袭击，船上有19名船员被绑架。\n据悉，这艘名为“Nave Constellation”的油轮当时正计划从邦尼到印度卸货。在航行至03 05N 007 06E位置时，于1810 UTC遭遇武装海盗袭击。武装海盗登轮后，绑架了19名船员，其中包括18名印度人和1名土耳其人。在发生袭击约2一3小时后，该轮剩余的7名船员再次启动船舶航行，并依据指示将船舶停泊在相对安全的位置等待海军巡逻艇和其他救援船只的到来。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.1, 3.08333333]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 203,
+        "Month": 12,
+        "Day": 3,
+        "Time": null,
+        "Vessel Name": "CANO",
+        "Ship Type": "散货船",
+        "IMO": "9662332",
+        "Waters": "领海",
+        "Longitude": -12.02777778,
+        "Latitude": -77.225,
+        "Region": "拉丁美洲",
+        "Position": "秘鲁",
+        "Attack Type": "偷盗",
+        "Weapon Type": "非枪支",
+        "Info": "在一艘抛锚的散货船上进行例行巡逻的两名值班人员注意到船头甲板上有动静，并通知了值班驾驶员。\n值班警官证实了从桥上传来的动静，报告说，一名劫匪手持一把长刀，另一名劫匪将系泊绳扔出了船外。\n警报响起，汽笛响起，船员们继续前进。\n当船员们到达前甲板时，他们看到一艘船带着偷来的系泊绳开走了。\n向VTS报告事故。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.225, -12.02777778]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 204,
+        "Month": 12,
+        "Day": 6,
+        "Time": null,
+        "Vessel Name": "KIM HOCK 拖轮 8",
+        "Ship Type": "拖轮",
+        "IMO": "9557537",
+        "Waters": "领海",
+        "Longitude": 1.183055556,
+        "Latitude": 103.85,
+        "Region": "东南亚",
+        "Position": "新加坡",
+        "Attack Type": "偷盗",
+        "Weapon Type": "非枪支",
+        "Info": "当拖轮拖驳正在进行时，10至15只小舢板在LKH 7887号旁，登上拖轮，把船上的废金属货偷走。\n一艘在新加坡注册的拖船，金霍克处女号，在护送金霍克拖船8号时，发生了登船事件，并协助赶走了舢板。\n机组人员没有受伤。\n废金属被偷了。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.85, 1.183055556]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 205,
+        "Month": 12,
+        "Day": 7,
+        "Time": null,
+        "Vessel Name": "LUNITA",
+        "Ship Type": "散货船",
+        "IMO": "9685621",
+        "Waters": "港区",
+        "Longitude": null,
+        "Latitude": null,
+        "Region": "东南亚",
+        "Position": "印度尼西亚",
+        "Attack Type": "偷盗",
+        "Weapon Type": "非枪支",
+        "Info": "三名劫匪通过锚链和锚链管登上了一艘抛锚的船。\n他们捆住值班的绳子，拿起他的收音机、手表和手电筒，进了船首楼的储藏间。\n值班驾驶员设法逃跑，并发出警报，导致船员集合。\n听到警报，强盗们乘坐一艘等候着的摩托艇逃走了。\n经调查，该船的财产被报告失窃。\n事件已报告给电马港口管制。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 206,
+        "Month": 12,
+        "Day": 9,
+        "Time": null,
+        "Vessel Name": null,
+        "Ship Type": null,
+        "IMO": null,
+        "Waters": null,
+        "Longitude": null,
+        "Latitude": null,
+        "Region": "东非",
+        "Position": "索马里",
+        "Attack Type": "劫持",
+        "Weapon Type": "枪支",
+        "Info": "12月9日，一艘杂货船在索马里沿岸被劫持，于13日被释放，具体细节尚未披露。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 207,
+        "Month": 12,
+        "Day": 13,
+        "Time": null,
+        "Vessel Name": "NIJINSKY",
+        "Ship Type": "液化船",
+        "IMO": "9364966",
+        "Waters": "港区",
+        "Longitude": 36.75,
+        "Latitude": 3.066666667,
+        "Region": "西非",
+        "Position": "阿尔及利亚",
+        "Attack Type": "偷盗",
+        "Weapon Type": "非枪支",
+        "Info": "在停泊时，值班员发现三名罪犯企图在船卸货时使用前缆登船。\n警报响起，肇事者逃走了。\n船员进行了偷渡搜查，确认船上没有未授权人员的迹象。\n事件被报告给港口设施安全官员(PFSO)，他登上船监视情况。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.066666667, 36.75]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 208,
+        "Month": 12,
+        "Day": 15,
+        "Time": null,
+        "Vessel Name": "Name withheld",
+        "Ship Type": "成品油轮",
+        "IMO": null,
+        "Waters": "国际海域",
+        "Longitude": 4.399722222,
+        "Latitude": 2.054166667,
+        "Region": "西非",
+        "Position": "尼日利亚",
+        "Attack Type": "劫持",
+        "Weapon Type": "枪支",
+        "Info": "大约6名全副武装的海盗登上了正在航行的油轮。他们劫持了所有船员，并摧毁了一些设备，导致油轮进入停电状态。剩下的船员发出了求救信号，要求被拖到安全地带。国际海事局海盗报告中心收到有关资料后，立即通知并与有关地区当局联络，向油轮提供协助。一艘多哥海军舰艇被派往油轮所在地，并安排拖拽油轮。据报道有20名船员失踪。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.054166667, 4.399722222]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 209,
+        "Month": 12,
+        "Day": 17,
+        "Time": null,
+        "Vessel Name": "MAERSK TRADER",
+        "Ship Type": "拖轮",
+        "IMO": "9388596",
+        "Waters": "领海",
+        "Longitude": -4.775,
+        "Latitude": 11.78333333,
+        "Region": "西非",
+        "Position": "刚果",
+        "Attack Type": "偷盗",
+        "Weapon Type": "非枪支",
+        "Info": "两名劫匪乘坐独木舟来到一艘抛锚的近海拖船旁。\n他们登上那艘船，偷走了船上的财物。\n事件已报告给港口管制。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.78333333, -4.775]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 210,
+        "Month": 12,
+        "Day": 21,
+        "Time": null,
+        "Vessel Name": "GUO JI",
+        "Ship Type": "货船",
+        "IMO": "中国",
+        "Waters": "领海",
+        "Longitude": 0.257222222,
+        "Latitude": 9.4688888888879994,
+        "Region": "西非",
+        "Position": "加蓬",
+        "Attack Type": "劫持",
+        "Weapon Type": "枪支",
+        "Info": "12月21日，事件经过：袭击发生时一艘货船及两艘渔船和一艘登陆小艇在锚地附近结伴而行，货船首先发现袭击船，是一艘类似于独木舟的快艇，并观察到小艇上有6-7名人员，随后，货轮发出了警报，海盗看货轮发出了警报，随即转向另外两艘渔船和一艘登陆小艇，海盗登上两艘渔船，并劫持了两船的船长和大副共计4名船员，海盗登上登陆小艇在冲突中加蓬籍船长被海盗打死。\n管理公司：中加公司Sigapeche\nGUOJI 838, MMSI 412549154, 长度41 meter, 船旗：China.\nGUOJI 867, MMSI 412549157, 长度41 meter, 船旗：China.",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.468888888887999, 0.257222222]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 211,
+        "Month": 12,
+        "Day": 23,
+        "Time": "0012UTC",
+        "Vessel Name": "BAMZI",
+        "Ship Type": "油轮",
+        "IMO": null,
+        "Waters": "领海",
+        "Longitude": 1.111833333,
+        "Latitude": 103.65,
+        "Region": "东南亚",
+        "Position": "新加坡",
+        "Attack Type": "袭击",
+        "Weapon Type": "非枪支",
+        "Info": "12月23日，2019年12月23日，大约0012时，油轮BAMZI在新加坡海峡进行航行，从印尼尼帕锚地到中国青岛的途中，轮机长和值班轮机员在机舱发现了三名海盗袭击者。其中一名海盗袭击者手持小刀。警报响起后，三名海盗袭击者立即逃脱。后来发现两名机工被海盗袭击者绑了起来。\n随后对船上进行了彻底地搜查，未发现还有海盗袭击者的存在。船上船员都很安全，没有财物被偷，船只继续恢复了航行。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.65, 1.111833333]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "No.": 212,
+        "Month": 12,
+        "Day": 23,
+        "Time": "0154UTC",
+        "Vessel Name": "TRUST STAR",
+        "Ship Type": "散货船",
+        "IMO": "巴拿马",
+        "Waters": "领海",
+        "Longitude": 1.2738888888888,
+        "Latitude": 104.20222222222,
+        "Region": "东南亚",
+        "Position": "新加坡",
+        "Attack Type": "袭击",
+        "Weapon Type": "非枪支",
+        "Info": "2019年12月23日，大约0154时，散货船TRUST STAR在新加坡海峡航行中，当时船员在船上发现了六名海盗袭击者，并发出了警报。听到警报后，六名海盗袭击者立即逃脱。当时海盗袭击者已经在机舱中与两名船员进行对峙，并绑住了两名船员，后来这两名船员设法解开了自己的束缚。船长改变了航行计划，驶向新加坡港口，因为他不确定船上是否还有其他尚未逃脱的海盗袭击者。\n新加坡海岸警卫队接到警报后立即登上该船，并对船上进行了彻底地搜查。没有进一步发现海盗袭击者的情况，船上船员很安全，也没有物品被盗。\n油轮BAMZI，IMO号码9256468，载重吨104864，建造于2003年，悬挂巴拿马旗，管理公司OCM MARITIME EXPLORER LLC。\n散货船TRUST STAR，IMO号码9610236，载重吨36338，建造于2012年，悬挂巴拿马旗，管理公司NISSEN KAIUN CO LTD。",
+        "field_20": null,
+        "field_21": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [104.202222222220001, 1.2738888888888]
+      }
+    }
+  ]
+}

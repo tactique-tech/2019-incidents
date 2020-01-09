@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset='utf-8' />
+  <title>Draw GeoJSON points</title>
+  <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+
+
+  <!-- CSS files  -->
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.4.0/dist/leaflet.css" integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA==" crossorigin="" />
+  <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v1.5.0/mapbox-gl.css' rel='stylesheet' />
+
+  <!-- Custom stylesheet -->
+  <link rel="stylesheet" href="./css/styles.css" />
+
+  <!-- JS Libraries -->
+  <script src="https://unpkg.com/leaflet@1.4.0/dist/leaflet.js" integrity="sha512-QVftwZFqvtRNi0ZyCtsznlKSWOStnDORoefr1enyq5mVL4tmKB3S/EnC3rRJcxCPavG10IcrVGSmPh6Qw5lwrg==" crossorigin=""></script>
+  <script src="//d3js.org/d3.v5.min.js" charset="utf-8"></script>
+  <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v1.5.0/mapbox-gl.js'></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+  <script src="https://code.jquery.com/jquery-3.4.1.js" integrity="sha256-WpOohJOqMqqyKL9FccASB9O0KwACQJpFTUBLTYOVvVU=" crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@turf/turf@5/turf.min.js"></script>
+
+
+
+
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+    }
+
+    #map {
+      position: absolute;
+      top: 0;
+      bottom: 0;
+      width: 100%;
+    }
+  </style>
+</head>
+
+<body>
+  <div id='app-page'>
+    <header>
+      <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark pl-5">
+        <a id='navbar-title' class="navbar-brand" data-toggle="modal" data-target="#landing-page">Tactique</a>
+        <div class="collapse navbar-collapse" id="navbarCollapse">
+
+        </div>
+      </nav>
+    </header>
+
+    <div id='main-container' class="container-fluid">
+      <div class='row '>
+        <div id='main-map' class='col-8'></div>
+      </div>
+      <div class='row justify-content-end'>
+        <div id="info-body" class="col-md-4">
+
+          <!-- Sticky-top header for map nav controls and file drop -->
+          <div class='row sticky-top'>
+
+
+            <!-- Holder div for cards to be placed with d3 -->
+            <div id="story-cards" class="row">
+              <div id="global-card-0" data-index="0" class="global card-body app-card col-12 active">
+                <h2 class='display-5'>2019 Maritime Piracy Incidents</h2>
+                <h5>A Global XXX</h5>
+                <p>In 2019 x piracy events were recorded by y. Lorem ipsum etc. .</p>
+
+
+                <div id="card-holder">
+
+                  <div class="accordion" id="incidents-accordion">
+
+
+                  </div>
+
+
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <script src="./js/functions.js"></script>
+    <script src="./js/app.js"></script>
+
+
+
+</body>
+
+</html>
